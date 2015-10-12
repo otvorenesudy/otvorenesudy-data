@@ -1,0 +1,6 @@
+.bundle
+.idea
+.project
+.tags
+
+*.txt
