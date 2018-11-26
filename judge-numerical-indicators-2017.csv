@@ -1,652 +1,652 @@
 ,id,judge,court,Vybavenosť,Reštančné z nevybavených,Kapacita vybavovať,Potvrdené rozhodnutia
-1,150,JUDr. Ivan Ďalak,Okresný súd Rimavská Sobota,10,9,9,10
-2,287,JUDr. Margita Žilková,Okresný súd Rimavská Sobota,8,8,9,10
-3,497,JUDr. Viera Kvetková,Okresný súd Rimavská Sobota,10,10,8,8
-4,650,Mgr. Zuzana Dojčánová,Okresný súd Galanta,10,7,8,9
-5,109,JUDr. Eva Čipková,Okresný súd Rimavská Sobota,9,8,8,9
-6,312,JUDr. Marian Tengely,Okresný súd Rožňava,10,2,8,10
-7,4,JUDr. Adriana Dulovičová,Okresný súd Rimavská Sobota,7,9,8,9
-8,75,JUDr. Danka Lauková,Okresný súd Prievidza,7,6,8,10
-9,172,JUDr. Ján Gallo,Okresný súd Rožňava,3,10,10,10
-10,337,JUDr. Martina Koreňová,Okresný súd Rimavská Sobota,7,9,8,9
-11,419,JUDr. Peter Csank,Okresný súd Rimavská Sobota,4,8,10,10
-12,431,JUDr. Radka Laceková,Okresný súd Levice,9,4,7,10
-13,89,JUDr. Edita Kušnírová,Okresný súd Rožňava,9,3,7,10
-14,349,JUDr. Michal Kubiš,Okresný súd Bratislava IV,10,4,7,9
-15,521,JUDr. Zoltán Orlai,Okresný súd Veľký Krtíš,4,9,9,10
-16,265,JUDr. Ľubica Chmelanová,Okresný súd Prievidza,8,5,8,9
-17,278,JUDr. Ľudmila Škvaridlová,Okresný súd Prievidza,8,5,8,9
-18,28,JUDr. Andrea Zolotová,Okresný súd Vranov nad Topľou,10,2,7,9
-19,226,JUDr. Juraj Valášek,Okresný súd Bánovce nad Bebravou,3,10,10,9
-20,430,JUDr. PhD. Lenka Müllerová,Okresný súd Žilina,7,10,7,8
-21,606,Mgr. Marián Hatala,Okresný súd Nové Zámky,7,5,8,9
-22,47,JUDr. Beáta Gešvantnerová,Okresný súd Prievidza,6,6,8,9
-23,56,JUDr. Božena Michaláčová,Okresný súd Skalica,10,2,9,7
-24,76,JUDr. Darina Dobošová,Okresný súd Košice II,10,4,8,7
-25,146,"JUDr. Ingrid Kišacová, PhD.",Okresný súd Topoľčany,2,10,10,9
-26,272,JUDr. Ľuboš Murgaš,Okresný súd Veľký Krtíš,4,5,9,10
-27,289,JUDr. Mária Červenáková,Okresný súd Levice,10,3,7,8
-28,64,JUDr. Dagmar Valocká,Okresný súd Trnava,6,7,7,9
-29,83,JUDr. Diana Cviková,Okresný súd Nové Zámky,3,7,10,9
-30,159,JUDr. Ivana Michalíková,Okresný súd Liptovský Mikuláš,4,6,8,10
-31,316,JUDr. Mariana Ginelliová,Okresný súd Košice okolie,4,8,10,8
-32,373,JUDr. Miriam Štillová,Okresný súd Martin,9,4,7,8
-33,613,Mgr. Michal Kačáni,Okresný súd Bratislava I,3,6,9,10
-34,114,JUDr. Eva Kiššová,Okresný súd Prievidza,3,8,9,9
-35,227,JUDr. Juraj Vallo,Okresný súd Banská Bystrica,10,4,7,7
-36,244,JUDr. Klaudia Šišková,Okresný súd Prievidza,4,5,8,10
-37,409,JUDr. Ondrej Melišek,Okresný súd Komárno,10,2,8,7
-38,447,JUDr. Renáta Šulajová,Okresný súd Lučenec,5,7,9,8
-39,520,JUDr. Zoltán Boros,Okresný súd Rimavská Sobota,5,10,9,7
-40,607,Mgr. Marianna Hašková,Okresný súd Prievidza,5,6,8,9
-41,60,JUDr. Dagmar Aradská,Okresný súd Komárno,10,4,8,6
-42,69,JUDr. Daniel Béreš,Okresný súd Žilina,3,7,9,9
-43,268,JUDr. Ľubomír Šabla,Okresný súd Revúca,4,6,7,10
-44,340,JUDr. Martina Melníková,Okresný súd Vranov nad Topľou,7,4,8,8
-45,418,JUDr. Peter Bebej,Okresný súd Dolný Kubín,4,7,8,9
-46,510,JUDr. Vladimír Tamaškovič,Okresný súd Nové Zámky,3,7,9,9
-47,555,Mgr. Božena Csibrányiová,Okresný súd Nové Zámky,8,4,7,8
-48,625,Mgr. Pavol Macháč,Okresný súd Piešťany,4,7,8,9
-49,11,JUDr. Agnesa Hvastová,Okresný súd Rožňava,8,2,6,9
-50,105,JUDr. Eva Benčová,Okresný súd Banská Bystrica,5,6,7,9
-51,155,JUDr. Ivan Šimek,Okresný súd Skalica,4,7,9,8
-52,198,JUDr. Jana Sroková,Okresný súd Stará Ľubovňa,3,7,7,10
-53,202,JUDr. Jana Třešková,Okresný súd Senica,3,9,9,8
-54,211,JUDr. Jarmila Dušáková,Okresný súd Rožňava,4,4,9,9
-55,336,JUDr. Martina Brniaková,Okresný súd Žilina,6,6,6,9
-56,428,JUDr. Peter Zachar,Okresný súd Rimavská Sobota,3,10,10,7
-57,453,JUDr. Róbert Matulák,Okresný súd Prievidza,5,7,8,8
-58,487,JUDr. Terézia Mecelová,Okresný súd Piešťany,10,1,3,10
+1,194,JUDr. Ivan Ďalak,Okresný súd Rimavská Sobota,10,9,9,10
+2,1492,JUDr. Margita Žilková,Okresný súd Rimavská Sobota,8,8,9,10
+3,699,JUDr. Viera Kvetková,Okresný súd Rimavská Sobota,10,10,8,8
+4,2576,Mgr. Zuzana Dojčánová,Okresný súd Galanta,10,7,8,9
+5,186,JUDr. Eva Čipková,Okresný súd Rimavská Sobota,9,8,8,9
+6,1310,JUDr. Marian Tengely,Okresný súd Rožňava,10,2,8,10
+7,244,JUDr. Adriana Dulovičová,Okresný súd Rimavská Sobota,7,9,8,9
+8,715,JUDr. Danka Lauková,Okresný súd Prievidza,7,6,8,10
+9,311,JUDr. Ján Gallo,Okresný súd Rožňava,3,10,10,10
+10,602,JUDr. Martina Koreňová,Okresný súd Rimavská Sobota,7,9,8,9
+11,165,JUDr. Peter Csank,Okresný súd Rimavská Sobota,4,8,10,10
+12,3347,JUDr. Radka Laceková,Okresný súd Levice,9,4,7,10
+13,691,JUDr. Edita Kušnírová,Okresný súd Rožňava,9,3,7,10
+14,2421,JUDr. Michal Kubiš,Okresný súd Bratislava IV,10,4,7,9
+15,1535,JUDr. Zoltán Orlai,Okresný súd Veľký Krtíš,4,9,9,10
+16,461,JUDr. Ľubica Chmelanová,Okresný súd Prievidza,8,5,8,9
+17,1253,JUDr. Ľudmila Škvaridlová,Okresný súd Prievidza,8,5,8,9
+18,1483,JUDr. Andrea Zolotová,Okresný súd Vranov nad Topľou,10,2,7,9
+19,1377,JUDr. Juraj Valášek,Okresný súd Bánovce nad Bebravou,3,10,10,9
+20,889,JUDr. PhD. Lenka Müllerová,Okresný súd Žilina,7,10,7,8
+21,389,Mgr. Marián Hatala,Okresný súd Nové Zámky,7,5,8,9
+22,337,JUDr. Beáta Gešvantnerová,Okresný súd Prievidza,6,6,8,9
+23,837,JUDr. Božena Michaláčová,Okresný súd Skalica,10,2,9,7
+24,213,JUDr. Darina Dobošová,Okresný súd Košice II,10,4,8,7
+25,2548,"JUDr. Ingrid Kišacová, PhD.",Okresný súd Topoľčany,2,10,10,9
+26,2667,JUDr. Ľuboš Murgaš,Okresný súd Veľký Krtíš,4,5,9,10
+27,183,JUDr. Mária Červenáková,Okresný súd Levice,10,3,7,8
+28,1386,JUDr. Dagmar Valocká,Okresný súd Trnava,6,7,7,9
+29,170,JUDr. Diana Cviková,Okresný súd Nové Zámky,3,7,10,9
+30,3371,JUDr. Ivana Michalíková,Okresný súd Liptovský Mikuláš,4,6,8,10
+31,341,JUDr. Mariana Ginelliová,Okresný súd Košice okolie,4,8,10,8
+32,1280,JUDr. Miriam Štillová,Okresný súd Martin,9,4,7,8
+33,522,Mgr. Michal Kačáni,Okresný súd Bratislava I,3,6,9,10
+34,559,JUDr. Eva Kiššová,Okresný súd Prievidza,3,8,9,9
+35,2570,JUDr. Juraj Vallo,Okresný súd Banská Bystrica,10,4,7,7
+36,1244,JUDr. Klaudia Šišková,Okresný súd Prievidza,4,5,8,10
+37,1932,JUDr. Ondrej Melišek,Okresný súd Komárno,10,2,8,7
+38,1286,JUDr. Renáta Šulajová,Okresný súd Lučenec,5,7,9,8
+39,118,JUDr. Zoltán Boros,Okresný súd Rimavská Sobota,5,10,9,7
+40,388,Mgr. Marianna Hašková,Okresný súd Prievidza,5,6,8,9
+41,12,JUDr. Dagmar Aradská,Okresný súd Komárno,10,4,8,6
+42,83,JUDr. Daniel Béreš,Okresný súd Žilina,3,7,9,9
+43,1216,JUDr. Ľubomír Šabla,Okresný súd Revúca,4,6,7,10
+44,814,JUDr. Martina Melníková,Okresný súd Vranov nad Topľou,7,4,8,8
+45,62,JUDr. Peter Bebej,Okresný súd Dolný Kubín,4,7,8,9
+46,2424,JUDr. Vladimír Tamaškovič,Okresný súd Nové Zámky,3,7,9,9
+47,167,Mgr. Božena Csibrányiová,Okresný súd Nové Zámky,8,4,7,8
+48,2338,Mgr. Pavol Macháč,Okresný súd Piešťany,4,7,8,9
+49,454,JUDr. Agnesa Hvastová,Okresný súd Rožňava,8,2,6,9
+50,73,JUDr. Eva Benčová,Okresný súd Banská Bystrica,5,6,7,9
+51,1237,JUDr. Ivan Šimek,Okresný súd Skalica,4,7,9,8
+52,1169,JUDr. Jana Sroková,Okresný súd Stará Ľubovňa,3,7,7,10
+53,1352,JUDr. Jana Třešková,Okresný súd Senica,3,9,9,8
+54,252,JUDr. Jarmila Dušáková,Okresný súd Rožňava,4,4,9,9
+55,128,JUDr. Martina Brniaková,Okresný súd Žilina,6,6,6,9
+56,1457,JUDr. Peter Zachar,Okresný súd Rimavská Sobota,3,10,10,7
+57,798,JUDr. Róbert Matulák,Okresný súd Prievidza,5,7,8,8
+58,806,JUDr. Terézia Mecelová,Okresný súd Piešťany,10,1,3,10
 59,547,Mgr. Andrej Kekely,Okresný súd Žilina,9,3,6,8
-60,578,Mgr. Iveta Bebejová,Okresný súd Dolný Kubín,4,10,9,7
-61,618,Mgr. Miriam Kamenská,Okresný súd Banská Bystrica,4,7,6,10
-62,30,JUDr. Andrej Mitterpák,Okresný súd Košice I,3,6,10,8
-63,36,JUDr. Anna Miklová,Okresný súd Nové Zámky,4,8,8,8
-64,214,JUDr. Jarmila Schromová,Okresný súd Prievidza,5,6,8,8
-65,243,JUDr. Katarína Zajacová,Okresný súd Prievidza,7,4,7,8
-66,259,JUDr. Lenka Saloková,Okresný súd Košice okolie,3,9,10,7
-67,377,JUDr. Miroslav Račko,Okresný súd Lučenec,4,9,9,7
-68,536,JUDr. Zuzana Slušná,Okresný súd Trenčín,10,2,5,8
-69,161,JUDr. Iveta Banghová,Okresný súd Komárno,3,9,8,8
-70,162,JUDr. Iveta Farkašovská,Okresný súd Rožňava,8,3,6,8
-71,165,JUDr. Iveta Mihóková,Okresný súd Vranov nad Topľou,3,10,9,7
-72,174,JUDr. Ján Kozenko,Okresný súd Vranov nad Topľou,6,3,8,8
-73,309,JUDr. Marián Manduch,Okresný súd Trenčín,4,6,10,7
-74,330,JUDr. Martin Ivan,Okresný súd Komárno,3,7,9,8
-75,359,"JUDr. Milan Majerník, PhD.",Okresný súd Bardejov,8,2,8,7
-76,387,JUDr. Monika Jakubová,Okresný súd Dunajská Streda,8,4,7,7
-77,391,JUDr. Monika Sitáriková,Okresný súd Bánovce nad Bebravou,4,4,8,9
-78,532,JUDr. Zuzana Pilátová,Okresný súd Žilina,3,7,9,8
-79,619,Mgr. Miriam Manová,Okresný súd Bánovce nad Bebravou,3,10,9,7
-80,644,Mgr. Viera Betáková,Okresný súd Nové Zámky,10,4,8,5
-81,41,JUDr. Arpád Koreň,Okresný súd Rožňava,3,10,10,6
-82,120,JUDr. Eva Tóthová,Okresný súd Trenčín,3,9,9,7
-83,135,JUDr. Gertrúda Rennerová,Okresný súd Levice,8,4,8,6
-84,194,JUDr. Jana Novotná Mlinárcsik,Okresný súd Žilina,5,5,6,9
-85,201,JUDr. Jana Tomášová,Okresný súd Humenné,3,6,6,10
-86,239,JUDr. Katarína Rusňáková,Okresný súd Bratislava V,10,4,6,6
-87,374,JUDr. Miroslav Baňacký,Okresný súd Košice okolie,4,5,10,7
-88,424,JUDr. Peter Mén,Okresný súd Košice okolie,3,6,9,8
-89,473,JUDr. Stanislav Galovič,Okresný súd Lučenec,3,10,10,6
-90,511,JUDr. Vladimír Topoľančík,Okresný súd Ružomberok,3,9,9,7
-91,513,JUDr. Vladimíra Slobodová,Okresný súd Skalica,10,3,8,5
-92,533,JUDr. Zuzana Pribulová,Okresný súd Trnava,6,4,7,8
-93,573,Mgr. Ingrid Steinsdorferová,Okresný súd Banská Bystrica,3,8,8,8
-94,579,Mgr. Iveta Sonderlichová,Okresný súd Košice okolie,3,4,10,8
-95,599,Mgr. Ľubomíra Podmaníková,Okresný súd Topoľčany,2,10,8,8
-96,601,Mgr. Ľudovít Majerčík,Okresný súd Komárno,4,10,9,6
-97,603,Mgr. Marek Anovčin,Okresný súd Bánovce nad Bebravou,4,4,9,8
-98,645,"Mgr. Viera Milatová, PhD.",Okresný súd Bratislava V,10,3,5,7
-99,25,JUDr. Andrea Kondllová,Okresný súd Piešťany,4,6,9,7
-100,68,JUDr. Dana Macášková,Okresný súd Trnava,8,3,5,8
-101,125,JUDr. František Zelený,Okresný súd Poprad,10,3,6,6
-102,139,JUDr. Helena Menichová,Okresný súd Martin,5,8,7,7
-103,175,JUDr. Ján Lapšanský,Okresný súd Spišská Nová Ves,3,6,10,7
-104,252,JUDr. Ladislav Réves,Okresný súd Trnava,2,5,7,10
-105,342,JUDr. Michaela Buceková PhD.,Okresný súd Bratislava II ,2,6,8,9
-106,367,JUDr. Miriam Kohútová,Okresný súd Prievidza,5,4,9,7
-107,384,JUDr. Miroslava Maláriková,Okresný súd Trnava,8,4,6,7
-108,475,JUDr. Stanislav Vojtko,Okresný súd Michalovce,6,5,9,6
-109,561,Mgr. Danka Majdáková,Okresný súd Stará Ľubovňa,3,6,7,9
-110,595,Mgr. Kornélia Harcsová,Okresný súd Nové Zámky,8,3,8,6
-111,628,Mgr. Peter Hvizdoš,Okresný súd Trenčín,10,2,5,7
-112,637,Mgr. Silvia Kysucká,Okresný súd Považská Bystrica,3,7,8,8
-113,13,JUDr. Alena Blašková,Okresný súd Partizánske,9,3,5,7
-114,32,JUDr. Andrej Stachovič,Okresný súd Nové Mesto nad Váhom,3,5,7,9
-115,54,JUDr. Boris Buľubaš,Okresný súd Skalica,10,1,5,7
-116,92,JUDr. Eduard Valenčin,Okresný súd Prešov,10,2,3,8
-117,93,JUDr. Elena Lámerová,Okresný súd Brezno,3,10,9,6
-118,116,JUDr. Eva Macúchová,Okresný súd Nové Mesto nad Váhom,3,6,5,10
-119,124,JUDr. František Čisovský,Okresný súd Košice II,9,4,6,6
-120,141,JUDr. Igor Ragan,Okresný súd Michalovce,5,8,8,6
-121,220,JUDr. Jozef Šulek,Okresný súd Trnava,8,3,6,7
-122,245,JUDr. Klaudia Talašová,Okresný súd Bratislava V,3,9,8,7
-123,263,JUDr. Ľubica Cambelová,Okresný súd Levice,10,1,5,7
-124,276,JUDr. Lucia Prčová,Okresný súd Revúca,5,4,4,10
-125,279,JUDr. Magdaléna Balážová,Okresný súd Lučenec,5,5,8,7
-126,344,JUDr. Michaela Krajčová,Okresný súd Bratislava II ,5,7,7,7
-127,442,JUDr. Renáta Kňazúrová,Okresný súd Dolný Kubín,4,8,9,6
-128,478,JUDr. Štefan Novák,Okresný súd Banská Bystrica,3,7,9,7
-129,571,Mgr. Ing. Judita Gabonaiová Hrenčuková,Okresný súd Rožňava,7,5,9,5
-130,575,Mgr. Ivana Dufalová,Okresný súd Bratislava III,4,8,6,8
-131,577,Mgr. Ivana Heinrichová,Okresný súd Nitra,9,4,6,6
-132,584,Mgr. Jana Koščová,Okresný súd Košice II,10,4,8,4
-133,21,JUDr. Andrea Gazdagová,Okresný súd Košice okolie,3,7,7,8
-134,58,JUDr. Branislav Lečko,Okresný súd Žilina,3,10,4,9
-135,59,JUDr. Cecília Melišková,Okresný súd Nové Zámky,3,7,10,6
-136,86,JUDr. Dušan Szabó,Okresný súd Trnava,3,3,9,8
-137,102,JUDr. Erika Jóbová,Okresný súd Komárno,3,6,9,7
-138,112,JUDr. Eva Herichová,Okresný súd Spišská Nová Ves,3,7,10,6
-139,177,JUDr. Ján Miľko,Okresný súd Trebišov,4,5,7,8
-140,189,JUDr. Jana Dudíková,Okresný súd Košice okolie,3,7,7,8
-141,212,JUDr. Jarmila Jánošová,Okresný súd Banská Bystrica,7,4,6,7
-142,308,JUDr. Marián Mačura,Okresný súd Prešov,3,7,10,6
-143,329,JUDr. Martin Baločko,Okresný súd Košice I,3,7,10,6
-144,346,JUDr. Michal Antala,Okresný súd Trenčín,3,6,9,7
-145,348,JUDr. Michal Fiala,Okresný súd Trenčín,3,8,8,7
-146,352,JUDr. Michal Uhorskai,Okresný súd Revúca,4,8,10,5
-147,353,JUDr. Michal Valent,Okresný súd Bratislava I,3,6,9,7
-148,390,JUDr. Monika Liptáková,Okresný súd Žilina,3,8,8,7
-149,433,JUDr. Radoslav Rusnák,Okresný súd Spišská Nová Ves,3,7,10,6
-150,445,JUDr. Renáta Nemčeková PhD.,Okresný súd Bratislava V,10,4,6,5
-151,454,"JUDr. Robert Šorl, PhD.",Okresný súd Prievidza,4,4,9,7
-152,539,Mgr. Adriana Halajová,Okresný súd Nitra,8,3,4,8
-153,540,Mgr. Adriana Šimková,Okresný súd Malacky,3,9,9,6
-154,593,Mgr. Katarína Škrovanová,Okresný súd Senica,3,6,9,7
-155,611,Mgr. Martin Štubniak,Okresný súd Žiar nad Hronom,8,3,7,6
-156,12,JUDr. Alena Bieliková,Okresný súd Trenčín,6,6,7,6
-157,22,JUDr. Andrea Gindlová,Okresný súd Žiar nad Hronom,6,3,7,7
-158,57,JUDr. Branislav Klukoš,Okresný súd Ružomberok,3,9,10,5
-159,62,JUDr. Dagmar Komadová,Okresný súd Veľký Krtíš,3,10,8,6
-160,81,JUDr. Denisa Novotná Mlinárcsiková,Okresný súd Košice I,3,6,4,10
-161,115,JUDr. Eva Korbeľová,Okresný súd Banská Bystrica,3,6,10,6
-162,117,JUDr. Eva Miklošková,Okresný súd Bratislava V,7,5,5,7
-163,129,JUDr. Gabriela Dúbravková,Okresný súd Žilina,8,4,6,6
-164,182,JUDr. Ján Slovinský,Okresný súd Spišská Nová Ves,3,6,10,6
-165,184,JUDr. Ján Šulaj,Okresný súd Lučenec,4,8,8,6
-166,204,JUDr. Jana Veselá,Okresný súd Dolný Kubín,5,6,8,6
-167,291,JUDr. Mária Gazdačková,Okresný súd Martin,7,3,6,7
-168,318,JUDr. Mariana Podbehlá,Okresný súd Nitra,9,3,4,7
-169,364,JUDr. Milan Vaľuš,Okresný súd Vranov nad Topľou,9,2,6,6
-170,383,JUDr. Miroslava Kvetková,Okresný súd Revúca,3,6,7,8
-171,477,JUDr. Sylvia Szabadošová,Okresný súd Prešov,4,6,6,8
-172,543,Mgr. Alica Žingorová,Okresný súd Rimavská Sobota,3,7,8,7
-173,551,Mgr. Anna Miháliková,Okresný súd Žilina,10,3,3,7
-174,552,Mgr. Anna Monoková,Okresný súd Vranov nad Topľou,3,4,8,8
-175,587,Mgr. Jarmila Bíliková,Okresný súd Skalica,8,4,9,4
-176,591,Mgr. Katarína Janotová,Okresný súd Martin,5,7,6,7
-177,617,Mgr. Miloš Greguš,Okresný súd Košice I,10,3,6,5
-178,627,Mgr. Peter Garaj,Okresný súd Nové Zámky,6,4,8,6
-179,8,JUDr. Adriana Szaniszlová,Okresný súd Košice II,10,3,7,4
-180,107,JUDr. Eva Bíróová,Okresný súd Dunajská Streda,9,4,6,5
-181,126,JUDr. Gabriel Slobodník,Okresný súd Banská Bystrica,6,3,5,8
-182,156,JUDr. Ivan Štepita,Okresný súd Ružomberok,3,7,9,6
-183,196,JUDr. Jana Raganová,Okresný súd Košice I,10,1,5,6
-184,246,JUDr. Kristina Glezgová,Okresný súd Lučenec,5,8,8,5
-185,281,JUDr. Marcela Kačmárová,Okresný súd Trenčín,5,6,6,7
-186,305,JUDr. Marián Dunčko,Okresný súd Trnava,4,5,9,6
-187,327,JUDr. Marta Rybárová,Okresný súd Trenčín,4,9,7,6
-188,356,JUDr. Milan Gylánik,Okresný súd Čadca,3,5,10,6
-189,375,JUDr. Miroslav Dobrík,Okresný súd Martin,10,3,7,4
-190,429,JUDr. Petra Priečinská,Okresný súd Bratislava II ,7,4,5,7
-191,466,JUDr. Silvia Šviderská,Okresný súd Vranov nad Topľou,4,7,8,6
-192,470,JUDr. Slavomír Ivanecký,Okresný súd Bardejov,3,7,9,6
-193,482,JUDr. Tatiana Kovácsová,Okresný súd Lučenec,3,10,9,5
-194,560,Mgr. Daniela Pristášová,Okresný súd Michalovce,7,4,5,7
-195,566,Mgr. Eva Jombíková,Okresný súd Zvolen,4,7,8,6
-196,574,Mgr. Ivan Antal,Okresný súd Rimavská Sobota,3,7,9,6
-197,614,Mgr. Michal Novotný,Okresný súd Dunajská Streda,7,4,8,5
-198,615,Mgr. Michal Pollák,Okresný súd Trnava,2,4,7,9
-199,638,Mgr. Silvia Lesňáková,Okresný súd Liptovský Mikuláš,4,5,9,6
-200,646,Mgr. Viera Petrová,Okresný súd Trebišov,7,3,7,6
-201,6,JUDr. Adriana Považanová,Okresný súd Zvolen,3,6,9,6
-202,10,JUDr. Agáta Štefaničová,Okresný súd Michalovce,7,4,6,6
-203,48,JUDr. Beáta Schmidtová,Okresný súd Trenčín,4,7,9,5
-204,49,JUDr. Beáta Svediaková,Okresný súd Žilina,10,3,5,5
-205,99,JUDr. Erik Tomus,Okresný súd Malacky,4,6,8,6
-206,103,JUDr. Erika Lengyelová,Okresný súd Dunajská Streda,10,1,6,5
-207,136,JUDr. Hana Posluchová,Okresný súd Bratislava II ,7,4,6,6
-208,142,JUDr. Igor Valent,Okresný súd Žiar nad Hronom,4,3,8,7
-209,147,JUDr. Ingrid Šimonová,Okresný súd Piešťany,7,4,6,6
-210,148,JUDr. Ivan Alman,Okresný súd Bratislava IV,4,7,9,5
-211,168,JUDr. Iveta Wildeová,Okresný súd Prešov,4,4,3,10
-212,213,JUDr. Jarmila Kasanová,Okresný súd Žiar nad Hronom,5,3,7,7
-213,285,JUDr. Marek Šenkár,Okresný súd Žilina,3,6,6,8
-214,321,JUDr. Marie Mészárosová,Okresný súd Dunajská Streda,9,3,6,5
-215,338,JUDr. Martina Ľachová,Okresný súd Galanta,10,3,5,5
-216,379,JUDr. Miroslav Studenčan,Okresný súd Galanta,3,6,9,6
-217,382,JUDr. Miroslava Korbašová,Okresný súd Martin,2,6,7,8
-218,395,JUDr. Naďa Pethöová,Okresný súd Galanta,10,2,7,4
-219,469,JUDr. Slavomír Harmóci,Okresný súd Michalovce,3,10,10,4
-220,486,JUDr. Tatiana Sabadošová,Okresný súd Michalovce,7,4,6,6
-221,499,JUDr. Viera Malinowska,Okresný súd Malacky,10,6,2,6
-222,527,JUDr. Zuzana Kotríková,Okresný súd Prievidza,6,7,7,5
-223,605,Mgr. Mária Sitárová,Okresný súd Nitra,4,4,9,6
-224,15,JUDr. Alica Gálová,Okresný súd Brezno,4,7,10,4
-225,38,JUDr. Anna Pikulová,Okresný súd Banská Bystrica,5,4,6,7
-226,65,JUDr. Dagmar Vaverčáková,Okresný súd Bratislava III,5,5,4,8
-227,140,JUDr. Igor Malý,Okresný súd Trnava,8,3,5,6
-228,260,JUDr. Libuša Záthurecká,Okresný súd Banská Bystrica,7,3,6,6
-229,271,JUDr. Ľuboš Baka,Okresný súd Levice,3,9,10,4
-230,284,JUDr. Marek Čech,Okresný súd Prešov,4,1,10,6
-231,314,JUDr. Marián Vorobel,Okresný súd Prešov,3,5,9,6
-232,365,JUDr. Milena Jakubíková,Okresný súd Levice,3,7,8,6
-233,440,JUDr. Rastislav Varga,Okresný súd Prešov,3,6,10,5
-234,462,JUDr. Roman Reištetter,Okresný súd Banská Bystrica,3,5,9,6
-235,479,JUDr. Štefan Tomáš,Okresný súd Žilina,4,6,9,5
-236,505,JUDr. Vladimír Červeňák,Okresný súd Michalovce,8,10,6,3
-237,526,JUDr. Zuzana Korčeková,Okresný súd Bratislava II ,6,3,4,8
-238,537,JUDr. Zuzana Stolárová,Okresný súd Košice I,8,2,4,7
-239,549,Mgr. Anna Križáková,Okresný súd Bratislava V,6,5,6,6
-240,550,Mgr. Anna Križanová,Okresný súd Nové Zámky,4,8,8,5
-241,616,Mgr. Michal Vigaš,Okresný súd Partizánske,4,5,8,6
-242,635,Mgr. Róbert Veterník,Okresný súd Martin,3,5,9,6
-243,640,Mgr. Slavomíra Mlynarčíková,Okresný súd Liptovský Mikuláš,4,7,7,6
-244,20,JUDr. Andrea Gabrielová,Okresný súd Lučenec,6,5,7,5
-245,33,JUDr. Anna Irikovská,Okresný súd Považská Bystrica,3,8,7,6
-246,44,JUDr. Bc. Viktor Marko,Okresný súd Zvolen,4,5,9,5
-247,55,JUDr. Božena Brinčíková,Okresný súd Partizánske,5,3,6,7
-248,72,JUDr. Daniela Blažovská,Okresný súd Košice II,4,5,9,5
-249,108,JUDr. Eva Cvengová,Okresný súd Banská Bystrica,1,9,7,7
-250,111,JUDr. Eva Foltánová,Okresný súd Galanta,10,3,7,3
-251,121,JUDr. Eva Triznová,Okresný súd Lučenec,5,7,7,5
-252,127,JUDr. Gabriel Štefanič,Okresný súd Michalovce,5,6,6,6
-253,131,JUDr. Gabriela Panáková,Okresný súd Žilina,4,6,7,6
-254,183,JUDr. Ján Šmrhola,Okresný súd Levice,3,7,9,5
-255,191,JUDr. Jana Grendárová,Okresný súd Bratislava IV,4,8,9,4
-256,253,JUDr. Laura Žideková,Okresný súd Čadca,7,4,5,6
-257,256,JUDr. Lenka Halmešová,Okresný súd Nitra,9,4,0,8
-258,299,JUDr. Mária Ondrejová,Okresný súd Nitra,3,4,9,6
-259,320,JUDr. Marianna Hosťovecká,Okresný súd Galanta,10,3,7,3
-260,343,JUDr. Michaela Kotusová Hucová,Okresný súd Košice II,10,3,7,3
-261,399,JUDr. Natália Štrkolcová,Okresný súd Košice okolie,5,6,6,6
-262,400,JUDr. Noema Turanovičová,Okresný súd Prievidza,3,6,8,6
-263,425,JUDr. Peter Philadelphy,Okresný súd Banská Bystrica,3,8,10,4
-264,464,JUDr. Silvia Gandelová,Okresný súd Bratislava III,9,2,4,6
-265,494,JUDr. Viera Kováčová,Okresný súd Levice,7,5,6,5
-266,503,JUDr. Vincent Svoboda,Okresný súd Michalovce,5,7,7,5
-267,630,Mgr. Peter Revický,Okresný súd Prešov,10,0,1,8
-268,651,Mgr. Zuzana Gašpirová,Okresný súd Bratislava II ,6,5,4,7
-269,14,JUDr. Alena Roštárová,Okresný súd Bratislava II ,6,4,4,7
-270,35,JUDr. Anna Majeriková,Okresný súd Žilina,5,4,5,7
-271,71,JUDr. Daniela Bergerová,Okresný súd Bratislava V,6,4,4,7
-272,98,JUDr. Erik Kačmár,Okresný súd Trenčín,6,3,6,6
-273,158,JUDr. Ivana Jaďuďová,Okresný súd Komárno,10,2,7,3
-274,302,JUDr. Mária Szabóová,Okresný súd Bratislava II ,4,4,9,5
-275,328,JUDr. Marta Šašinková,Okresný súd Bratislava II ,6,6,6,5
-276,426,JUDr. Peter Rajňák,Okresný súd Nové Zámky,7,5,7,4
-277,436,JUDr. Rastislav Pella,Okresný súd Košice II,10,3,5,4
-278,437,JUDr. Rastislav Plutinský,Okresný súd Dolný Kubín,4,6,8,5
-279,468,JUDr. Slavomír Cimerman,Okresný súd Veľký Krtíš,3,9,9,4
-280,474,"JUDr. Stanislav Sojka, PhD.",Okresný súd Michalovce,3,10,10,3
-281,565,Mgr. Erika Szalaiová,Okresný súd Dunajská Streda,8,2,3,7
-282,598,Mgr. Lívia Gombárová,Okresný súd Nové Zámky,9,5,8,2
-283,629,Mgr. Peter Mezőszállási,Okresný súd Komárno,6,7,7,4
-284,649,Mgr. Zuzana Bezáková,Okresný súd Nitra,3,6,9,5
-285,3, Marián Mokoš,Okresný súd Topoľčany,3,5,6,7
-286,34,JUDr. Anna Lisá,Okresný súd Humenné,10,1,4,5
-287,73,JUDr. Daniela Linetová,Okresný súd Bratislava III,5,6,5,6
-288,79,JUDr. David Lindtner,Okresný súd Bratislava III,4,7,10,3
-289,170,JUDr. Ivo Hlucháň,Okresný súd Považská Bystrica,3,8,9,4
-290,178,JUDr. Ján Petreás,Okresný súd Zvolen,6,5,6,5
-291,186,JUDr. Jana Berešová,Okresný súd Trebišov,3,7,8,5
-292,219,JUDr. Jozef Mikluš,Okresný súd Košice I,4,3,9,5
-293,250,JUDr. Ladislav Lóška,Okresný súd Lučenec,3,8,9,4
-294,254,JUDr. Lenka Augustínová,Okresný súd Žilina,4,5,5,7
-295,295,JUDr. Mária Kováčiková,Okresný súd Banská Bystrica,7,3,6,5
-296,298,JUDr. Mária Nagyová,Okresný súd Nové Zámky,8,6,8,2
-297,354,JUDr. Mikuláš Géczi,Okresný súd Lučenec,4,2,5,8
-298,369,JUDr. Miriam Penjaková,Okresný súd Ružomberok,3,8,9,4
-299,372,JUDr. Miriam Srogončíková,Okresný súd Námestovo,7,4,7,4
-300,385,JUDr. Miroslava Šibíková,Okresný súd Nové Mesto nad Váhom,1,5,5,9
-301,392,JUDr. Monika Šabľová,Okresný súd Poprad,4,4,7,6
-302,393,JUDr. Monika Vozárová,Okresný súd Trnava,6,3,4,7
-303,394,JUDr. Myrtill Vojteková,Okresný súd Galanta,6,4,8,4
-304,401,JUDr. Nora Zátopková,Okresný súd Martin,5,4,6,6
-305,406,JUDr. Oľga Nižňanská,Okresný súd Bratislava II ,7,4,4,6
-306,412,JUDr. Pavel Rohárik,Okresný súd Banská Bystrica,9,2,6,4
-307,432,JUDr. Radoslav Baláž,Okresný súd Spišská Nová Ves,3,7,8,5
-308,439,JUDr. Rastislav Stieranka,Okresný súd Dolný Kubín,5,7,9,3
-309,443,JUDr. Renáta Krajčiová,Okresný súd Ružomberok,3,7,8,5
-310,444,JUDr. Renáta Mihalíková,Okresný súd Topoľčany,3,7,8,5
-311,493,JUDr. Viera Kováčová,Okresný súd Košice II,10,1,4,5
-312,523,JUDr. Zuzana Biščáková,Okresný súd Prešov,5,6,8,4
-313,538,Mgr. Adriana Dobiášová,Okresný súd Nitra,3,3,7,7
-314,612,Mgr. Mgr. Miriam Plavčáková,Okresný súd Bratislava I,10,0,0,8
-315,626,Mgr. Pavol Tomík,Okresný súd Bratislava I,3,4,8,6
-316,642,Mgr. Štefan Fedor,Okresný súd Prievidza,6,5,6,5
-317,2, Ľuboš Chrenko,Okresný súd Topoľčany,3,5,4,8
-318,29,JUDr. Andrej Matušovic,Okresný súd Žiar nad Hronom,3,2,10,5
-319,46,JUDr. Beáta Farkašová,Okresný súd Bratislava III,7,4,5,5
-320,74,JUDr. Daniela Rajňáková,Okresný súd Nové Zámky,3,8,7,5
-321,100,JUDr. Erik Uhlár,Okresný súd Stará Ľubovňa,3,2,7,7
-322,113,JUDr. Eva Kerecmanová,Okresný súd Košice okolie,4,3,4,8
-323,118,JUDr. Eva Schweitzerová,Okresný súd Galanta,4,5,9,4
-324,134,JUDr. Gabriela Tučková,Okresný súd Žilina,3,9,8,4
-325,149,JUDr. Ivan Bartek,Okresný súd Bratislava III,6,6,5,5
-326,255,JUDr. Lenka Bowker,Okresný súd Košice I,10,2,3,5
-327,267,JUDr. Ľubomír Hudák,Okresný súd Malacky,3,7,9,4
-328,311,JUDr. Marián Rošak,Okresný súd Martin,3,7,9,4
-329,322,JUDr. Mário Karaffa,Okresný súd Galanta,10,3,7,2
-330,323,JUDr. Markéta Marečková,Okresný súd Poprad,9,3,5,4
-331,380,JUDr. Miroslav Šedivec,Okresný súd Revúca,3,7,9,4
-332,415,JUDr. Pavol Roth,Okresný súd Poprad,3,5,10,4
-333,450,JUDr. René Štepánik,Okresný súd Bratislava V,3,7,9,4
-334,465,JUDr. Silvia Minková,Okresný súd Zvolen,5,6,6,5
-335,485,JUDr. Tatiana Redenkovičová,Okresný súd Bratislava IV,5,2,5,7
-336,507,JUDr. Vladimír Hric,Okresný súd Poprad,3,5,10,4
-337,508,JUDr. Vladimír Kozáčik,Okresný súd Žilina,7,3,4,6
-338,541,Mgr. Alena Jančulová,Okresný súd Čadca,5,5,5,6
-339,559,Mgr. Daniela Pilarčíková,Okresný súd Námestovo,3,7,9,4
-340,589,Mgr. Juraj Lukáč,Okresný súd Liptovský Mikuláš,3,6,8,5
-341,592,Mgr. Katarína Šimková,Okresný súd Trenčín,3,5,4,8
-342,609,Mgr. Marta Hrenčuková,Okresný súd Rožňava,3,7,9,4
-343,633,"Mgr. Radoslav Smatana, PhD.",Okresný súd Partizánske,3,5,7,6
-344,648,Mgr. Vojtech Chmelan,Okresný súd Prievidza,3,7,9,4
-345,1, Ján Bodnár,Okresný súd Rimavská Sobota,3,4,10,4
-346,52,JUDr. Blažena Stašíková,Okresný súd Ružomberok,4,7,9,3
-347,163,JUDr. Iveta Gildeinová,Okresný súd Humenné,4,4,6,6
-348,164,JUDr. Iveta Halvoňová,Okresný súd Bratislava III,4,4,9,4
-349,203,JUDr. Jana Tvrdá,Okresný súd Piešťany,4,4,6,6
-350,229,JUDr. Karol Rihák,Okresný súd Bratislava IV,5,5,3,7
-351,236,JUDr. Katarína Krivulčíková,Okresný súd Považská Bystrica,3,7,7,5
-352,257,JUDr. Lenka Pavlovičová,Okresný súd Nové Mesto nad Váhom,3,4,4,8
-353,264,JUDr. Ľubica Farkašová,Okresný súd Nitra,5,5,6,5
-354,274,JUDr. Ľubov Vargová,Okresný súd Humenné,1,8,7,6
-355,277,JUDr. Lucia Tóth,Okresný súd Bratislava IV,8,3,4,5
-356,292,JUDr. Mária Hirjaková,Okresný súd Michalovce,4,5,7,5
-357,345,JUDr. Michaela Pacherová,Okresný súd Bratislava II ,5,3,7,5
-358,370,JUDr. Miriam Pintová,Okresný súd Levice,9,3,6,3
-359,398,JUDr. Natália Kolláriková,Okresný súd Bratislava V,8,3,4,5
-360,407,JUDr. Oľga Tatranská,Okresný súd Košice okolie,10,1,6,3
-361,408,JUDr. Oliver Kolenčík,Okresný súd Nitra,5,8,6,4
-362,420,JUDr. Peter Heinrich,Okresný súd Nitra,5,3,4,7
-363,452,JUDr. Róbert Jankovský,Okresný súd Považská Bystrica,3,6,9,4
-364,515,JUDr. Zdenka Kleimanová,Okresný súd Bratislava V,10,2,4,4
-365,528,JUDr. Zuzana Kudlovská,Okresný súd Košice I,10,1,3,5
-366,585,Mgr. Janette Nôtová,Okresný súd Zvolen,7,5,7,3
-367,596,Mgr. Lenka Kvasnicová,Okresný súd Trenčín,8,2,3,6
-368,631,Mgr. Peter Sivák,Okresný súd Humenné,4,5,7,5
-369,7,JUDr. Adriana Pytliaková Dr.,Okresný súd Čadca,4,3,6,6
-370,16,JUDr. Alica Gavalcová,Okresný súd Brezno,3,8,6,5
-371,19,JUDr. Alžbeta Marková,Okresný súd Rimavská Sobota,0,10,2,9
-372,104,JUDr. Erika Némethová Stiffelová,Okresný súd Bratislava V,3,5,9,4
-373,206,JUDr. Janka Butašová,Okresný súd Skalica,10,0,3,5
-374,228,JUDr. Karol Posluch,Okresný súd Bratislava III,3,5,9,4
-375,234,JUDr. Katarína Janečková,Okresný súd Rožňava,3,5,6,6
-376,293,JUDr. Mária Jačeková Sziegel,Okresný súd Dunajská Streda,7,3,6,4
-377,317,JUDr. Mariana Philadelphyová,Okresný súd Zvolen,3,5,9,4
-378,350,JUDr. Michal Mravec,Okresný súd Čadca,4,6,6,5
-379,363,JUDr. Milan Trylč,Okresný súd Senica,4,7,10,2
-380,388,JUDr. Monika Kráľová,Okresný súd Spišská Nová Ves,3,8,9,3
-381,414,JUDr. Pavol Bielik,Okresný súd Prievidza,4,5,8,4
-382,417,JUDr. Peter Banský,Okresný súd Zvolen,6,5,6,4
-383,446,JUDr. Renáta Sýkorová,Okresný súd Žilina,2,9,5,6
-384,502,JUDr. Viera Sláviková,Okresný súd Senica,5,5,7,4
-385,512,JUDr. Vladimír Varga,Okresný súd Humenné,3,5,9,4
-386,530,JUDr. Zuzana Miklošová,Okresný súd Trebišov,3,7,5,6
-387,535,JUDr. Zuzana Singerová,Okresný súd Nitra,10,3,6,2
-388,556,Mgr. Dagmar Snopeková,Okresný súd Topoľčany,3,5,6,6
-389,31,JUDr. Andrej Radomský,Okresný súd Michalovce,6,4,6,4
-390,80,JUDr. Denisa Cviková,Okresný súd Bratislava I,5,2,8,4
-391,82,JUDr. Denisa Šaligová,Okresný súd Nitra,9,4,0,6
-392,130,JUDr. Gabriela Kyseľová,Okresný súd Námestovo,7,3,7,3
-393,151,JUDr. Ivan Daňo,Okresný súd Humenné,3,4,9,4
-394,205,JUDr. Jana Zuzan,Okresný súd Žiar nad Hronom,5,3,6,5
-395,221,JUDr. Jozefína Králová,Okresný súd Bratislava IV,8,3,6,3
-396,262,JUDr. Ľubica Balalová,Okresný súd Trenčín,4,4,5,6
-397,266,JUDr. Ľubica Novotná,Okresný súd Bratislava II ,5,3,6,5
-398,269,JUDr. Ľubomíra Krchníková,Okresný súd Pezinok,3,5,7,5
-399,270,JUDr. Ľubomíra Krišťáková,Okresný súd Čadca,8,3,3,5
-400,273,JUDr. Ľuboš Vereš,Okresný súd Košice I,4,2,9,4
-401,282,JUDr. Marcela Malatká,Okresný súd Žilina,4,5,6,5
-402,304,JUDr. Mária Žáková,Okresný súd Košice I,4,4,5,6
-403,313,JUDr. Marián Török,Okresný súd Revúca,3,8,10,2
-404,361,JUDr. Milan Petričko,Okresný súd Trebišov,3,2,10,4
-405,405,JUDr. Oľga Mičietová,Okresný súd Košice II,10,2,3,4
-406,435,JUDr. Rastislav Jakubovič,Okresný súd Galanta,10,3,7,1
-407,463,JUDr. Sandra Veľká,Okresný súd Košice I,10,1,5,3
-408,504,JUDr. Vladimír Buchvald,Okresný súd Bratislava II ,4,5,9,3
-409,516,JUDr. Zdenka Mattielighová,Okresný súd Bratislava III,3,8,4,6
-410,522,JUDr. Zuzana Bartalská,Okresný súd Bratislava V,3,5,7,5
-411,5,JUDr. Adriana Konkolovská,Okresný súd Komárno,5,7,8,2
-412,39,JUDr. Anna Plichtíková,Okresný súd Čadca,6,6,6,3
-413,84,JUDr. Drahomír Mrva,Okresný súd Žilina,6,3,3,6
-414,85,JUDr. Dušan Pagáč,Okresný súd Martin,7,4,6,3
-415,101,JUDr. Erika Bebčáková,Okresný súd Žilina,3,6,9,3
-416,138,JUDr. Helena Loduhová,Okresný súd Považská Bystrica,3,6,9,3
-417,160,JUDr. Ivana Štiftová,Okresný súd Bratislava II ,7,4,6,3
-418,197,JUDr. Jana Scholtzová,Okresný súd Žilina,8,2,3,5
-419,223,JUDr. Júlia Weiserová,Okresný súd Spišská Nová Ves,3,7,7,4
-420,230,JUDr. Katarína Bartalská,Okresný súd Bratislava I,5,5,3,6
-421,247,JUDr. Ladislav Bujňák,Okresný súd Košice I,3,6,9,3
-422,310,JUDr. Marián Polaček,Okresný súd Prešov,3,5,8,4
-423,319,JUDr. Marianna Hirková,Okresný súd Humenné,0,1,4,10
-424,341,JUDr. Martina Petríková,Okresný súd Levice,6,5,5,4
-425,357,JUDr. Milan Hupka,Okresný súd Bratislava II ,6,5,5,4
-426,378,JUDr. Miroslav Radačovský,Okresný súd Poprad,10,2,4,3
-427,403,JUDr. Oľga Csémyová,Okresný súd Dunajská Streda,9,2,5,3
-428,413,JUDr. Pavel Varga,Okresný súd Košice I,5,8,6,3
-429,421,JUDr. Peter Kalata,Okresný súd Bratislava IV,7,5,4,4
-430,427,JUDr. Peter Šuťák,Okresný súd Prešov,3,5,8,4
-431,455,JUDr. Róbert Záhorák,Okresný súd Nové Zámky,10,3,8,0
-432,545,Mgr. Andrea Kubjatková,Okresný súd Čadca,6,5,5,4
-433,576,Mgr. Ivana Fekete,Okresný súd Bratislava III,6,4,4,5
-434,583,Mgr. Jana Kosorínová,Okresný súd Levice,3,7,7,4
-435,622,Mgr. Monika Farkašová,Okresný súd Nitra,3,6,9,3
-436,26,JUDr. Andrea Kralovičová,Okresný súd Malacky,3,5,6,5
-437,50,JUDr. Beáta Šuťaková,Okresný súd Prešov,1,6,6,6
-438,51,JUDr. Blažena Fedorková,Okresný súd Spišská Nová Ves,3,5,6,5
-439,94,JUDr. Elena Petrusová,Okresný súd Veľký Krtíš,6,4,5,4
-440,95,JUDr. Elena Šuríková,Okresný súd Nové Mesto nad Váhom,6,10,5,2
-441,106,JUDr. Eva Bieliková,Okresný súd Bratislava II ,7,3,3,5
-442,152,JUDr. Ivan Pavlovič,Okresný súd Nové Mesto nad Váhom,3,6,7,4
-443,167,JUDr. Iveta Sýkorová,Okresný súd Žilina,10,1,1,5
-444,179,JUDr. Ján Poprocký,Okresný súd Košice I,3,5,9,3
-445,181,JUDr. Ján Skalický,Okresný súd Pezinok,2,7,9,3
-446,188,JUDr. Jana Dubivská,Okresný súd Bardejov,2,7,6,5
-447,233,JUDr. Katarína Holečková,Okresný súd Banská Bystrica,5,5,7,3
-448,240,JUDr. Katarína Šťastná,Okresný súd Spišská Nová Ves,2,6,5,6
-449,248,JUDr. Ladislav Bujňák,Okresný súd Trebišov,3,3,10,3
-450,290,JUDr. Mária Filová,Okresný súd Bratislava V,7,5,5,3
-451,300,JUDr. Mária Ondriašová,Okresný súd Bratislava I,4,0,9,4
-452,301,JUDr. Mária Petrušková,Okresný súd Poprad,3,5,9,3
-453,397,JUDr. Nadežda Wallnerová,Okresný súd Malacky,1,7,7,5
-454,456,JUDr. Róbert Zsiga,Okresný súd Košice I,5,5,4,5
-455,483,JUDr. Tatiana Poláková,Okresný súd Bratislava IV,10,2,2,4
-456,488,JUDr. Tibor Gál,Okresný súd Brezno,5,6,5,4
-457,495,JUDr. Viera Kukučková,Okresný súd Bratislava III,3,8,3,6
-458,534,JUDr. Zuzana Rigáňová,Okresný súd Bratislava IV,10,3,3,3
-459,567,Mgr. Eva Strašková,Okresný súd Veľký Krtíš,3,7,8,3
-460,568,Mgr. Eva Suchová,Okresný súd Bratislava IV,3,5,6,5
-461,604,Mgr. Marek Mikulčík,Okresný súd Pezinok,10,1,4,3
-462,608,Mgr. Maroš Fekete,Okresný súd Bratislava III,3,7,5,5
-463,632,Mgr. Peter Straka,Okresný súd Lučenec,7,5,5,3
-464,40,JUDr. Anna Trnková,Okresný súd Nitra,5,0,9,3
-465,53,JUDr. Boris Brondoš,Okresný súd Košice I,7,2,3,5
-466,87,JUDr. Dušan Špirek,Okresný súd Levice,3,4,9,3
-467,210,JUDr. Janka Túryová,Okresný súd Košice II,3,5,7,4
-468,217,JUDr. Jozef Medveď,Okresný súd Žiar nad Hronom,1,10,5,5
-469,283,JUDr. Marek Bujňák,Okresný súd Prešov,5,3,0,8
-470,306,JUDr. Marián Furman,Okresný súd Poprad,3,4,6,5
-471,358,JUDr. Milan Husťák,Okresný súd Košice I,4,5,9,2
-472,448,JUDr. Renáta Topolčanská,Okresný súd Trenčín,2,5,5,6
-473,461,JUDr. Roman Majerský,Okresný súd Pezinok,6,10,0,5
-474,519,JUDr. Zdenko Švárny,Okresný súd Michalovce,6,4,6,3
-475,553,Mgr. Bohuš Hruška,Okresný súd Zvolen,6,5,7,2
-476,564,Mgr. Erika Dodulíková,Okresný súd Čadca,3,6,8,3
-477,600,Mgr. Ľudmila Ostrolucká,Okresný súd Zvolen,5,5,5,4
-478,17,JUDr. Alica Vörösová,Okresný súd Dunajská Streda,5,3,4,5
-479,45,JUDr. Beáta Bizoňová,Okresný súd Bratislava I,5,2,0,8
-480,63,JUDr. Dagmar Soliarová,Okresný súd Poprad,2,4,5,6
-481,70,JUDr. Daniela Baranová,Okresný súd Prešov,10,2,1,4
-482,119,JUDr. Eva Šajmovičová,Okresný súd Bratislava V,6,5,5,3
-483,123,JUDr. Eva Vargová,Okresný súd Trebišov,5,3,4,5
-484,145,JUDr. Ingrid Daxner,Okresný súd Pezinok,10,0,2,4
-485,154,JUDr. Ivan Spurný,Okresný súd Žiar nad Hronom,8,2,0,6
-486,176,JUDr. Ján Lokša,Okresný súd Košice II,4,6,8,2
-487,187,JUDr. Jana Coboriová,Okresný súd Nitra,5,5,6,3
-488,195,JUDr. Jana Ocelková,Okresný súd Pezinok,10,1,3,3
-489,207,JUDr. Janka Majerčíková,Okresný súd Ružomberok,3,5,5,5
-490,225,JUDr. Juraj Lehotský,Okresný súd Zvolen,5,6,7,2
-491,231,JUDr. Katarína Fakanová,Okresný súd Bratislava II ,5,4,2,6
-492,303,JUDr. Mária Špániková,Okresný súd Pezinok,10,1,3,3
-493,334,JUDr. Martin Smolko,Okresný súd Trnava,5,6,7,2
-494,335,JUDr. Martin Stretavský,Okresný súd Michalovce,3,10,10,0
-495,347,JUDr. Michal Drimák,Okresný súd Prešov,9,2,2,4
-496,360,JUDr. Milan Mitterpák,Okresný súd Michalovce,9,4,7,0
-497,362,JUDr. Milan Staněk,Okresný súd Bratislava II ,7,3,2,5
-498,404,JUDr. Oľga Kováčová,Okresný súd Komárno,10,2,7,0
-499,471,JUDr. Soňa Mihaľáková,Okresný súd Košice II,4,5,7,3
-500,476,JUDr. Stanislava Semanová,Okresný súd Spišská Nová Ves,4,4,6,4
-501,500,JUDr. Viera Obermanová,Okresný súd Košice II,10,1,3,3
-502,514,JUDr. Vlastimil Valkovič,Okresný súd Topoľčany,3,0,9,4
-503,588,Mgr. Jozef Nadzam,Okresný súd Trebišov,3,4,10,2
-504,590,Mgr. Kamil Petrovič,Okresný súd Košice II,10,1,0,5
-505,623,Mgr. Nina Kollárová,Okresný súd Poprad,9,2,2,4
-506,143,JUDr. Imrich Hlavička,Okresný súd Komárno,3,8,9,1
-507,144,JUDr. Ing. Erika Trtalová,Okresný súd Nové Mesto nad Váhom,5,3,2,6
-508,185,JUDr. Ján Šulgan,Okresný súd Veľký Krtíš,2,6,8,3
-509,193,JUDr. Jana Krnáčová,Okresný súd Zvolen,5,4,3,5
-510,235,JUDr. Katarína Jusková,Okresný súd Košice II,10,1,4,2
-511,241,JUDr. Katarína Vachulíková,Okresný súd Nové Zámky,3,7,8,2
-512,251,JUDr. Ladislav Piros,Okresný súd Dunajská Streda,4,6,9,1
-513,258,JUDr. Lenka Saksunová,Okresný súd Košice II,1,4,4,7
-514,288,JUDr. Mária Blahovská,Okresný súd Spišská Nová Ves,2,5,7,4
-515,296,JUDr. Mária Krausová,Okresný súd Topoľčany,3,2,9,3
-516,381,JUDr. Miroslav Toma,Okresný súd Žiar nad Hronom,3,4,8,3
-517,441,JUDr. Renáta Audová,Okresný súd Senica,4,6,9,1
-518,458,JUDr. Roman Benedikovič,Okresný súd Bratislava V,2,9,8,2
-519,472,JUDr. Stanislav Dutko,Okresný súd Bratislava I,3,4,8,3
-520,501,JUDr. Viera Sládečková,Okresný súd Bratislava III,7,3,3,4
-521,544,Mgr. Andrea Hadnagyová,Okresný súd Piešťany,3,4,5,5
-522,586,Mgr. Janka Benkovičová,Okresný súd Nitra,8,2,4,3
-523,597,Mgr. Libor Kysucký,Okresný súd Považská Bystrica,4,7,7,2
-524,624,Mgr. Pamela Záleská,Okresný súd Nitra,3,5,9,2
-525,78,JUDr. Dáša Onuferová,Okresný súd Bratislava III,6,4,3,4
-526,91,JUDr. Eduard Szabo,Okresný súd Partizánske,7,2,6,2
-527,132,JUDr. Gabriela Sobolovská,Okresný súd Bratislava II ,6,4,3,4
-528,169,JUDr. Iveta Willantová,Okresný súd Bratislava V,3,7,9,1
-529,238,JUDr. Katarína Podhorcová,Okresný súd Liptovský Mikuláš,3,7,6,3
-530,331,JUDr. Martin Kollár,Okresný súd Zvolen,4,5,9,1
-531,389,JUDr. Monika Kublová,Okresný súd Nitra,5,7,7,1
-532,411,JUDr. Patrik Števík,Okresný súd Bratislava II ,6,6,5,2
-533,481,JUDr. Tatiana Buchvaldová,Okresný súd Bratislava III,7,5,6,1
-534,484,JUDr. Tatiana Porubänová,Okresný súd Trenčín,5,4,4,4
-535,529,JUDr. Zuzana Lohnertová,Okresný súd Bratislava III,2,6,3,6
-536,542,Mgr. Alexandra Osadská,Okresný súd Nitra,3,6,8,2
-537,594,Mgr. Katarína Škultétyová,Okresný súd Bratislava I,4,3,4,5
-538,639,Mgr. Silvia Tisová,Okresný súd Žilina,2,8,8,2
-539,42,JUDr. Arpád Pastorek,Okresný súd Komárno,10,1,3,2
-540,97,JUDr. Emília Horňáková,Okresný súd Senica,5,6,7,1
-541,190,JUDr. Jana Gargulová,Okresný súd Spišská Nová Ves,5,4,5,3
-542,368,JUDr. Miriam Oswaldová,Okresný súd Bratislava IV,10,1,0,4
-543,376,JUDr. Miroslav Jagnešák,Okresný súd Námestovo,5,3,4,4
-544,459,JUDr. Roman Farkaš,Okresný súd Bratislava II ,4,6,8,1
-545,460,JUDr. Roman Fitt,Okresný súd Bratislava III,3,4,7,3
-546,582,Mgr. Jana Janics Bajánková,Okresný súd Bratislava I,4,1,0,8
-547,610,Mgr. Martin Bauer,Okresný súd Martin,5,7,8,0
-548,641,Mgr. Stella Al Khufash,Okresný súd Senica,6,4,7,1
-549,209,JUDr. Janka Pravotiaková,Okresný súd Košice I,5,6,5,2
-550,249,JUDr. Ladislav Gábor,Okresný súd Košice I,5,5,4,3
-551,275,JUDr. Lucia Chrapková,Okresný súd Piešťany,6,4,5,2
-552,294,JUDr. Mária Képessyová,Okresný súd Dunajská Streda,4,5,8,1
-553,325,JUDr. Marta Kamenská,Okresný súd Veľký Krtíš,4,4,4,4
-554,351,JUDr. Michal Polák,Okresný súd Košice II,3,6,7,2
-555,438,JUDr. Rastislav Sikorjak,Okresný súd Prešov,4,3,0,7
-556,491,JUDr. Viera Dubovinská,Okresný súd Spišská Nová Ves,4,4,4,4
-557,509,JUDr. Vladimír Sopúch,Okresný súd Nitra,3,3,7,3
-558,554,Mgr. Boris Vittek,Okresný súd Trenčín,5,3,2,5
-559,557,Mgr. Dalibor Miľan,Okresný súd Zvolen,5,4,6,2
-560,620,Mgr. Miroslava Šúleková,Okresný súd Topoľčany,1,10,7,2
-561,43,JUDr. Barbara Plaskurová,Okresný súd Nové Mesto nad Váhom,2,3,0,8
-562,286,JUDr. Margita Kovaľová,Okresný súd Námestovo,3,5,4,4
-563,386,JUDr. Monika Bellová,Okresný súd Senica,4,7,8,0
-564,457,JUDr. Roland Kemény,Okresný súd Bratislava I,3,3,8,2
-565,558,Mgr. Daniel Koneracký,Okresný súd Levice,1,4,5,5
-566,67,JUDr. Dana Káčerová,Okresný súd Bratislava I,4,1,0,7
-567,110,JUDr. Eva Farkašová,Okresný súd Prešov,3,4,4,4
-568,208,JUDr. Janka Mičková,Okresný súd Košice II,10,1,3,1
-569,232,JUDr. Katarína Gašparová,Okresný súd Bratislava II ,0,4,4,6
-570,326,JUDr. Marta Raábová,Okresný súd Košice II,8,3,1,3
-571,489,JUDr. Tomáš Novák,Okresný súd Prešov,2,7,2,5
-572,518,JUDr. Zdenko Čaniga,Okresný súd Pezinok,2,8,9,0
-573,563,Mgr. Dušan Chamula,Okresný súd Žilina,10,1,0,3
-574,647,Mgr. Vladimír Zimányi,Okresný súd Piešťany,10,2,1,2
-575,27,JUDr. Andrea Vojteková Fejérová,Okresný súd Nové Mesto nad Váhom,3,3,1,6
-576,77,JUDr. Darina Puklušová,Okresný súd Spišská Nová Ves,3,4,5,3
-577,157,JUDr. Ivana Dančová,Okresný súd Bratislava II ,7,2,2,3
-578,218,JUDr. Jozef Medveď,Okresný súd Martin,1,6,3,5
-579,261,JUDr. Ľubica Adamčíková,Okresný súd Košice okolie,3,6,4,3
-580,333,JUDr. Martin Kopšo,Okresný súd Bratislava IV,4,7,4,2
-581,61,JUDr. Dagmar Buchalová,Okresný súd Bratislava II ,7,3,4,1
-582,137,JUDr. Helena Dudzíková,Okresný súd Topoľčany,2,9,6,1
-583,173,JUDr. Ján Kováč,Okresný súd Nitra,8,3,3,1
-584,200,JUDr. Jana Tamašiová,Okresný súd Bratislava V,4,5,3,3
-585,423,JUDr. Peter Lukáč,Okresný súd Žiar nad Hronom,3,7,0,5
-586,490,JUDr. Valéria Černegová,Okresný súd Bratislava V,6,6,5,0
-587,517,JUDr. Zdenka Tomašková,Okresný súd Bardejov,3,6,8,0
-588,562,Mgr. Denisa Mesárošová,Okresný súd Nitra,8,2,2,2
-589,569,Mgr. Gabriela Repková,Okresný súd Považská Bystrica,1,2,6,4
-590,572,Mgr. Ing. Ladislav Burda,Okresný súd Trebišov,5,6,0,4
-591,581,Mgr. Ján Stanček,Okresný súd Pezinok,6,3,2,3
-592,621,Mgr. Monika Czafiková,Okresný súd Komárno,0,3,5,5
-593,636,Mgr. Rudolf Novotný,Okresný súd Dunajská Streda,4,4,8,0
-594,18,JUDr. Alžbeta Marková,Okresný súd Bratislava IV,0,0,0,9
-595,133,JUDr. Gabriela Tomvčovčíková Šandalová,Okresný súd Košice II,1,10,0,5
-596,153,JUDr. Ivan Roháč,Okresný súd Humenné,3,3,9,0
-597,180,JUDr. Ján Rybárik,Okresný súd Žilina,10,1,3,0
-598,222,JUDr. Judita Knociková,Okresný súd Trenčín,7,1,0,4
-599,242,JUDr. Katarína Vorobelová,Okresný súd Prešov,0,6,0,7
-600,297,JUDr. Mária Kubusová,Okresný súd Poprad,10,1,3,0
-601,402,JUDr. Oľga Bitalová,Okresný súd Stará Ľubovňa,2,6,1,5
-602,524,JUDr. Zuzana Doricová,Okresný súd Bratislava I,4,1,0,6
-603,23,JUDr. Andrea Havírová,Okresný súd Vranov nad Topľou,4,4,7,0
-604,96,JUDr. Eliška Čonková,Okresný súd Trebišov,3,5,6,1
-605,422,JUDr. Peter Koman,Okresný súd Poprad,8,6,2,0
-606,634,Mgr. Raul Pospíšil,Okresný súd Bratislava II ,6,2,0,4
-607,224,JUDr. Július Tóth,Okresný súd Košice I,4,5,3,2
-608,366,JUDr. Milina Jánošková,Okresný súd Trenčín,6,2,1,3
-609,396,JUDr. Nadežda Tomanicová,Okresný súd Bratislava IV,2,6,3,3
-610,492,JUDr. Viera Hadrbulcová,Okresný súd Bratislava I,3,1,0,6
-611,506,JUDr. Vladimír Donič,Okresný súd Humenné,7,2,0,3
-612,570,Mgr. Gizela Pavelová,Okresný súd Košice I,2,8,5,1
-613,66,JUDr. Dana Farkášová,Okresný súd Prešov,0,3,0,7
-614,128,JUDr. Gabriela Buľubašová,Okresný súd Bratislava I,4,4,0,4
-615,192,JUDr. Jana Kovalčíková,Okresný súd Zvolen,5,4,5,0
-616,215,JUDr. Jaroslav Kanderka,Okresný súd Prešov,3,4,1,4
-617,339,JUDr. Martina Líšková,Okresný súd Bratislava I,4,1,0,5
-618,166,JUDr. Iveta Puškášová,Okresný súd Košice okolie,4,4,4,1
-619,237,JUDr. Katarína Ondrejáková,Okresný súd Malacky,10,0,0,1
-620,416,JUDr. Pavol Tomáš,Okresný súd Banská Bystrica,1,3,6,2
-621,525,JUDr. Zuzana Hlistová,Okresný súd Bratislava I,5,1,0,4
-622,548,Mgr. Anna Holeščáková,Okresný súd Čadca,4,4,1,3
-623,122,JUDr. Eva Tulejová,Okresný súd Bratislava I,3,1,0,5
-624,410,JUDr. Otília Doláková,Okresný súd Bratislava I,6,1,0,3
-625,498,JUDr. Viera Lamprechtová,Okresný súd Bratislava III,4,2,0,4
-626,496,JUDr. Viera Kumová,Okresný súd Trenčín,7,1,0,2
-627,643,Mgr. Vanda Mikulášová,Okresný súd Námestovo,4,3,5,0
-628,324,JUDr. Marta Barková,Okresný súd Bratislava I,2,4,0,4
-629,580,Mgr. Ivica Blecharžová,Okresný súd Bratislava V,3,5,0,3
-630,24,JUDr. Andrea Hrneková,Okresný súd Bratislava I,3,4,0,3
-631,90,JUDr. Edita Pavková,Okresný súd Trebišov,4,4,2,1
-632,171,JUDr. Ivona Hrčeková,Okresný súd Bratislava I,2,3,0,4
-633,332,JUDr. Martin Kopina,Okresný súd Vranov nad Topľou,0,1,0,6
-634,88,JUDr. Dušan Špirek,Okresný súd Nitra,0,7,1,3
-635,307,JUDr. Marián Kurinec,Okresný súd Bratislava III,8,2,0,0
-636,467,JUDr. Slávka Garančovská,Okresný súd Košice I,2,4,2,2
-637,480,JUDr. Štefan Tomašovský,Okresný súd Prešov,3,6,3,0
-638,602,Mgr. Lýdia Stehurová,Okresný súd Čadca,4,4,0,2
-639,315,JUDr. Mariana Gavalierová,Okresný súd Poprad,4,3,0,2
-640,531,JUDr. Zuzana Moťovská Dobošová,Okresný súd Bratislava I,2,4,0,3
-641,280,JUDr. Magdaléna Bošková,Okresný súd Bratislava I,0,0,0,5
-642,546,Mgr. Andrea Tomašovičová,Okresný súd Trnava,0,0,0,5
-643,434,JUDr. Radovan Groman,Okresný súd Bratislava I,2,4,0,2
-644,37,JUDr. Anna Moravová,Okresný súd Bratislava III,1,2,0,3
-645,355,JUDr. Milan Antal,Okresný súd Žiar nad Hronom,0,5,1,2
-646,9,JUDr. Agáta Burkušová,Okresný súd Košice II,0,2,0,3
-647,451,JUDr. Richard Bureš,Okresný súd Poprad,0,2,0,3
-648,216,JUDr. Jozef Engel,Okresný súd Humenné,0,4,0,2
-649,449,JUDr. René Milták,Okresný súd Bratislava I,3,1,0,0
-650,371,JUDr. Miriam Repáková,Okresný súd Bratislava I,0,3,0,1
-651,199,JUDr. Jana Štepániková,Okresný súd Bratislava II ,0,2,0,0
+60,63,Mgr. Iveta Bebejová,Okresný súd Dolný Kubín,4,10,9,7
+61,530,Mgr. Miriam Kamenská,Okresný súd Banská Bystrica,4,7,6,10
+62,865,JUDr. Andrej Mitterpák,Okresný súd Košice I,3,6,10,8
+63,847,JUDr. Anna Miklová,Okresný súd Nové Zámky,4,8,8,8
+64,1117,JUDr. Jarmila Schromová,Okresný súd Prievidza,5,6,8,8
+65,1459,JUDr. Katarína Zajacová,Okresný súd Prievidza,7,4,7,8
+66,1103,JUDr. Lenka Saloková,Okresný súd Košice okolie,3,9,10,7
+67,1057,JUDr. Miroslav Račko,Okresný súd Lučenec,4,9,9,7
+68,1887,JUDr. Zuzana Slušná,Okresný súd Trenčín,10,2,5,8
+69,43,JUDr. Iveta Banghová,Okresný súd Komárno,3,9,8,8
+70,272,JUDr. Iveta Farkašovská,Okresný súd Rožňava,8,3,6,8
+71,836,JUDr. Iveta Mihóková,Okresný súd Vranov nad Topľou,3,10,9,7
+72,632,JUDr. Ján Kozenko,Okresný súd Vranov nad Topľou,6,3,8,8
+73,773,JUDr. Marián Manduch,Okresný súd Trenčín,4,6,10,7
+74,473,JUDr. Martin Ivan,Okresný súd Komárno,3,7,9,8
+75,3344,"JUDr. Milan Majerník, PhD.",Okresný súd Bardejov,8,2,8,7
+76,486,JUDr. Monika Jakubová,Okresný súd Dunajská Streda,8,4,7,7
+77,1126,JUDr. Monika Sitáriková,Okresný súd Bánovce nad Bebravou,4,4,8,9
+78,991,JUDr. Zuzana Pilátová,Okresný súd Žilina,3,7,9,8
+79,774,Mgr. Miriam Manová,Okresný súd Bánovce nad Bebravou,3,10,9,7
+80,89,Mgr. Viera Betáková,Okresný súd Nové Zámky,10,4,8,5
+81,601,JUDr. Arpád Koreň,Okresný súd Rožňava,3,10,10,6
+82,1338,JUDr. Eva Tóthová,Okresný súd Trenčín,3,9,9,7
+83,1069,JUDr. Gertrúda Rennerová,Okresný súd Levice,8,4,8,6
+84,917,JUDr. Jana Novotná Mlinárcsik,Okresný súd Žilina,5,5,6,9
+85,1851,JUDr. Jana Tomášová,Okresný súd Humenné,3,6,6,10
+86,1088,JUDr. Katarína Rusňáková,Okresný súd Bratislava V,10,4,6,6
+87,42,JUDr. Miroslav Baňacký,Okresný súd Košice okolie,4,5,10,7
+88,815,JUDr. Peter Mén,Okresný súd Košice okolie,3,6,9,8
+89,315,JUDr. Stanislav Galovič,Okresný súd Lučenec,3,10,10,6
+90,1330,JUDr. Vladimír Topoľančík,Okresný súd Ružomberok,3,9,9,7
+91,1141,JUDr. Vladimíra Slobodová,Okresný súd Skalica,10,3,8,5
+92,1597,JUDr. Zuzana Pribulová,Okresný súd Trnava,6,4,7,8
+93,1176,Mgr. Ingrid Steinsdorferová,Okresný súd Banská Bystrica,3,8,8,8
+94,1157,Mgr. Iveta Sonderlichová,Okresný súd Košice okolie,3,4,10,8
+95,1860,Mgr. Ľubomíra Podmaníková,Okresný súd Topoľčany,2,10,8,8
+96,756,Mgr. Ľudovít Majerčík,Okresný súd Komárno,4,10,9,6
+97,7,Mgr. Marek Anovčin,Okresný súd Bánovce nad Bebravou,4,4,9,8
+98,856,"Mgr. Viera Milatová, PhD.",Okresný súd Bratislava V,10,3,5,7
+99,591,JUDr. Andrea Kondllová,Okresný súd Piešťany,4,6,9,7
+100,745,JUDr. Dana Macášková,Okresný súd Trnava,8,3,5,8
+101,1472,JUDr. František Zelený,Okresný súd Poprad,10,3,6,6
+102,817,JUDr. Helena Menichová,Okresný súd Martin,5,8,7,7
+103,713,JUDr. Ján Lapšanský,Okresný súd Spišská Nová Ves,3,6,10,7
+104,3375,JUDr. Ladislav Réves,Okresný súd Trnava,2,5,7,10
+105,3404,JUDr. Michaela Buceková PhD.,Okresný súd Bratislava II ,2,6,8,9
+106,579,JUDr. Miriam Kohútová,Okresný súd Prievidza,5,4,9,7
+107,763,JUDr. Miroslava Maláriková,Okresný súd Trnava,8,4,6,7
+108,1433,JUDr. Stanislav Vojtko,Okresný súd Michalovce,6,5,9,6
+109,754,Mgr. Danka Majdáková,Okresný súd Stará Ľubovňa,3,6,7,9
+110,381,Mgr. Kornélia Harcsová,Okresný súd Nové Zámky,8,3,8,6
+111,455,Mgr. Peter Hvizdoš,Okresný súd Trenčín,10,2,5,7
+112,2422,Mgr. Silvia Kysucká,Okresný súd Považská Bystrica,3,7,8,8
+113,106,JUDr. Alena Blašková,Okresný súd Partizánske,9,3,5,7
+114,1170,JUDr. Andrej Stachovič,Okresný súd Nové Mesto nad Váhom,3,5,7,9
+115,138,JUDr. Boris Buľubaš,Okresný súd Skalica,10,1,5,7
+116,1380,JUDr. Eduard Valenčin,Okresný súd Prešov,10,2,3,8
+117,710,JUDr. Elena Lámerová,Okresný súd Brezno,3,10,9,6
+118,748,JUDr. Eva Macúchová,Okresný súd Nové Mesto nad Váhom,3,6,5,10
+119,189,JUDr. František Čisovský,Okresný súd Košice II,9,4,6,6
+120,1060,JUDr. Igor Ragan,Okresný súd Michalovce,5,8,8,6
+121,3376,JUDr. Jozef Šulek,Okresný súd Trnava,8,3,6,7
+122,1304,JUDr. Klaudia Talašová,Okresný súd Bratislava V,3,9,8,7
+123,157,JUDr. Ľubica Cambelová,Okresný súd Levice,10,1,5,7
+124,1033,JUDr. Lucia Prčová,Okresný súd Revúca,5,4,4,10
+125,35,JUDr. Magdaléna Balážová,Okresný súd Lučenec,5,5,8,7
+126,638,JUDr. Michaela Krajčová,Okresný súd Bratislava II ,5,7,7,7
+127,573,JUDr. Renáta Kňazúrová,Okresný súd Dolný Kubín,4,8,9,6
+128,914,JUDr. Štefan Novák,Okresný súd Banská Bystrica,3,7,9,7
+129,2666,Mgr. Ing. Judita Gabonaiová Hrenčuková,Okresný súd Rožňava,7,5,9,5
+130,240,Mgr. Ivana Dufalová,Okresný súd Bratislava III,4,8,6,8
+131,398,Mgr. Ivana Heinrichová,Okresný súd Nitra,9,4,6,6
+132,611,Mgr. Jana Koščová,Okresný súd Košice II,10,4,8,4
+133,331,JUDr. Andrea Gazdagová,Okresný súd Košice okolie,3,7,7,8
+134,716,JUDr. Branislav Lečko,Okresný súd Žilina,3,10,4,9
+135,813,JUDr. Cecília Melišková,Okresný súd Nové Zámky,3,7,10,6
+136,3352,JUDr. Dušan Szabó,Okresný súd Trnava,3,3,9,8
+137,511,JUDr. Erika Jóbová,Okresný súd Komárno,3,6,9,7
+138,402,JUDr. Eva Herichová,Okresný súd Spišská Nová Ves,3,7,10,6
+139,857,JUDr. Ján Miľko,Okresný súd Trebišov,4,5,7,8
+140,237,JUDr. Jana Dudíková,Okresný súd Košice okolie,3,7,7,8
+141,503,JUDr. Jarmila Jánošová,Okresný súd Banská Bystrica,7,4,6,7
+142,750,JUDr. Marián Mačura,Okresný súd Prešov,3,7,10,6
+143,40,JUDr. Martin Baločko,Okresný súd Košice I,3,7,10,6
+144,9,JUDr. Michal Antala,Okresný súd Trenčín,3,6,9,7
+145,281,JUDr. Michal Fiala,Okresný súd Trenčín,3,8,8,7
+146,1364,JUDr. Michal Uhorskai,Okresný súd Revúca,4,8,10,5
+147,2425,JUDr. Michal Valent,Okresný súd Bratislava I,3,6,9,7
+148,731,JUDr. Monika Liptáková,Okresný súd Žilina,3,8,8,7
+149,1087,JUDr. Radoslav Rusnák,Okresný súd Spišská Nová Ves,3,7,10,6
+150,902,JUDr. Renáta Nemčeková PhD.,Okresný súd Bratislava V,10,4,6,5
+151,1262,"JUDr. Robert Šorl, PhD.",Okresný súd Prievidza,4,4,9,7
+152,366,Mgr. Adriana Halajová,Okresný súd Nitra,8,3,4,8
+153,2502,Mgr. Adriana Šimková,Okresný súd Malacky,3,9,9,6
+154,1249,Mgr. Katarína Škrovanová,Okresný súd Senica,3,6,9,7
+155,1283,Mgr. Martin Štubniak,Okresný súd Žiar nad Hronom,8,3,7,6
+156,94,JUDr. Alena Bieliková,Okresný súd Trenčín,6,6,7,6
+157,340,JUDr. Andrea Gindlová,Okresný súd Žiar nad Hronom,6,3,7,7
+158,571,JUDr. Branislav Klukoš,Okresný súd Ružomberok,3,9,10,5
+159,588,JUDr. Dagmar Komadová,Okresný súd Veľký Krtíš,3,10,8,6
+160,921,JUDr. Denisa Novotná Mlinárcsiková,Okresný súd Košice I,3,6,4,10
+161,597,JUDr. Eva Korbeľová,Okresný súd Banská Bystrica,3,6,10,6
+162,845,JUDr. Eva Miklošková,Okresný súd Bratislava V,7,5,5,7
+163,234,JUDr. Gabriela Dúbravková,Okresný súd Žilina,8,4,6,6
+164,1144,JUDr. Ján Slovinský,Okresný súd Spišská Nová Ves,3,6,10,6
+165,1285,JUDr. Ján Šulaj,Okresný súd Lučenec,4,8,8,6
+166,1415,JUDr. Jana Veselá,Okresný súd Dolný Kubín,5,6,8,6
+167,329,JUDr. Mária Gazdačková,Okresný súd Martin,7,3,6,7
+168,1002,JUDr. Mariana Podbehlá,Okresný súd Nitra,9,3,4,7
+169,1388,JUDr. Milan Vaľuš,Okresný súd Vranov nad Topľou,9,2,6,6
+170,698,JUDr. Miroslava Kvetková,Okresný súd Revúca,3,6,7,8
+171,1202,JUDr. Sylvia Szabadošová,Okresný súd Prešov,4,6,6,8
+172,1493,Mgr. Alica Žingorová,Okresný súd Rimavská Sobota,3,7,8,7
+173,833,Mgr. Anna Miháliková,Okresný súd Žilina,10,3,3,7
+174,1692,Mgr. Anna Monoková,Okresný súd Vranov nad Topľou,3,4,8,8
+175,96,Mgr. Jarmila Bíliková,Okresný súd Skalica,8,4,9,4
+176,504,Mgr. Katarína Janotová,Okresný súd Martin,5,7,6,7
+177,351,Mgr. Miloš Greguš,Okresný súd Košice I,10,3,6,5
+178,319,Mgr. Peter Garaj,Okresný súd Nové Zámky,6,4,8,6
+179,1208,JUDr. Adriana Szaniszlová,Okresný súd Košice II,10,3,7,4
+180,97,JUDr. Eva Bíróová,Okresný súd Dunajská Streda,9,4,6,5
+181,1140,JUDr. Gabriel Slobodník,Okresný súd Banská Bystrica,6,3,5,8
+182,1275,JUDr. Ivan Štepita,Okresný súd Ružomberok,3,7,9,6
+183,1061,JUDr. Jana Raganová,Okresný súd Košice I,10,1,5,6
+184,342,JUDr. Kristina Glezgová,Okresný súd Lučenec,5,8,8,5
+185,2846,JUDr. Marcela Kačmárová,Okresný súd Trenčín,5,6,6,7
+186,3349,JUDr. Marián Dunčko,Okresný súd Trnava,4,5,9,6
+187,1094,JUDr. Marta Rybárová,Okresný súd Trenčín,4,9,7,6
+188,360,JUDr. Milan Gylánik,Okresný súd Čadca,3,5,10,6
+189,215,JUDr. Miroslav Dobrík,Okresný súd Martin,10,3,7,4
+190,1040,JUDr. Petra Priečinská,Okresný súd Bratislava II ,7,4,5,7
+191,1299,JUDr. Silvia Šviderská,Okresný súd Vranov nad Topľou,4,7,8,6
+192,474,JUDr. Slavomír Ivanecký,Okresný súd Bardejov,3,7,9,6
+193,618,JUDr. Tatiana Kovácsová,Okresný súd Lučenec,3,10,9,5
+194,1043,Mgr. Daniela Pristášová,Okresný súd Michalovce,7,4,5,7
+195,2540,Mgr. Eva Jombíková,Okresný súd Zvolen,4,7,8,6
+196,8,Mgr. Ivan Antal,Okresný súd Rimavská Sobota,3,7,9,6
+197,2579,Mgr. Michal Novotný,Okresný súd Dunajská Streda,7,4,8,5
+198,3350,Mgr. Michal Pollák,Okresný súd Trnava,2,4,7,9
+199,3203,Mgr. Silvia Lesňáková,Okresný súd Liptovský Mikuláš,4,5,9,6
+200,980,Mgr. Viera Petrová,Okresný súd Trebišov,7,3,7,6
+201,1028,JUDr. Adriana Považanová,Okresný súd Zvolen,3,6,9,6
+202,2568,JUDr. Agáta Štefaničová,Okresný súd Michalovce,7,4,6,6
+203,1115,JUDr. Beáta Schmidtová,Okresný súd Trenčín,4,7,9,5
+204,1194,JUDr. Beáta Svediaková,Okresný súd Žilina,10,3,5,5
+205,2896,JUDr. Erik Tomus,Okresný súd Malacky,4,6,8,6
+206,722,JUDr. Erika Lengyelová,Okresný súd Dunajská Streda,10,1,6,5
+207,1020,JUDr. Hana Posluchová,Okresný súd Bratislava II ,7,4,6,6
+208,1381,JUDr. Igor Valent,Okresný súd Žiar nad Hronom,4,3,8,7
+209,3333,JUDr. Ingrid Šimonová,Okresný súd Piešťany,7,4,6,6
+210,4,JUDr. Ivan Alman,Okresný súd Bratislava IV,4,7,9,5
+211,1452,JUDr. Iveta Wildeová,Okresný súd Prešov,4,4,3,10
+212,542,JUDr. Jarmila Kasanová,Okresný súd Žiar nad Hronom,5,3,7,7
+213,1231,JUDr. Marek Šenkár,Okresný súd Žilina,3,6,6,8
+214,823,JUDr. Marie Mészárosová,Okresný súd Dunajská Streda,9,3,6,5
+215,707,JUDr. Martina Ľachová,Okresný súd Galanta,10,3,5,5
+216,1187,JUDr. Miroslav Studenčan,Okresný súd Galanta,3,6,9,6
+217,2550,JUDr. Miroslava Korbašová,Okresný súd Martin,2,6,7,8
+218,974,JUDr. Naďa Pethöová,Okresný súd Galanta,10,2,7,4
+219,384,JUDr. Slavomír Harmóci,Okresný súd Michalovce,3,10,10,4
+220,1097,JUDr. Tatiana Sabadošová,Okresný súd Michalovce,7,4,6,6
+221,2555,JUDr. Viera Malinowska,Okresný súd Malacky,10,6,2,6
+222,2551,JUDr. Zuzana Kotríková,Okresný súd Prievidza,6,7,7,5
+223,1127,Mgr. Mária Sitárová,Okresný súd Nitra,4,4,9,6
+224,314,JUDr. Alica Gálová,Okresný súd Brezno,4,7,10,4
+225,989,JUDr. Anna Pikulová,Okresný súd Banská Bystrica,5,4,6,7
+226,1408,JUDr. Dagmar Vaverčáková,Okresný súd Bratislava III,5,5,4,8
+227,770,JUDr. Igor Malý,Okresný súd Trnava,8,3,5,6
+228,1463,JUDr. Libuša Záthurecká,Okresný súd Banská Bystrica,7,3,6,6
+229,28,JUDr. Ľuboš Baka,Okresný súd Levice,3,9,10,4
+230,175,JUDr. Marek Čech,Okresný súd Prešov,4,1,10,6
+231,3158,JUDr. Marián Vorobel,Okresný súd Prešov,3,5,9,6
+232,485,JUDr. Milena Jakubíková,Okresný súd Levice,3,7,8,6
+233,1396,JUDr. Rastislav Varga,Okresný súd Prešov,3,6,10,5
+234,1068,JUDr. Roman Reištetter,Okresný súd Banská Bystrica,3,5,9,6
+235,1322,JUDr. Štefan Tomáš,Okresný súd Žilina,4,6,9,5
+236,182,JUDr. Vladimír Červeňák,Okresný súd Michalovce,8,10,6,3
+237,599,JUDr. Zuzana Korčeková,Okresný súd Bratislava II ,6,3,4,8
+238,1179,JUDr. Zuzana Stolárová,Okresný súd Košice I,8,2,4,7
+239,659,Mgr. Anna Križáková,Okresný súd Bratislava V,6,5,6,6
+240,661,Mgr. Anna Križanová,Okresný súd Nové Zámky,4,8,8,5
+241,2426,Mgr. Michal Vigaš,Okresný súd Partizánske,4,5,8,6
+242,1419,Mgr. Róbert Veterník,Okresný súd Martin,3,5,9,6
+243,870,Mgr. Slavomíra Mlynarčíková,Okresný súd Liptovský Mikuláš,4,7,7,6
+244,305,JUDr. Andrea Gabrielová,Okresný súd Lučenec,6,5,7,5
+245,3339,JUDr. Anna Irikovská,Okresný súd Považská Bystrica,3,8,7,6
+246,778,JUDr. Bc. Viktor Marko,Okresný súd Zvolen,4,5,9,5
+247,124,JUDr. Božena Brinčíková,Okresný súd Partizánske,5,3,6,7
+248,108,JUDr. Daniela Blažovská,Okresný súd Košice II,4,5,9,5
+249,168,JUDr. Eva Cvengová,Okresný súd Banská Bystrica,1,9,7,7
+250,291,JUDr. Eva Foltánová,Okresný súd Galanta,10,3,7,3
+251,1344,JUDr. Eva Triznová,Okresný súd Lučenec,5,7,7,5
+252,1269,JUDr. Gabriel Štefanič,Okresný súd Michalovce,5,6,6,6
+253,955,JUDr. Gabriela Panáková,Okresný súd Žilina,4,6,7,6
+254,1257,JUDr. Ján Šmrhola,Okresný súd Levice,3,7,9,5
+255,353,JUDr. Jana Grendárová,Okresný súd Bratislava IV,4,8,9,4
+256,1491,JUDr. Laura Žideková,Okresný súd Čadca,7,4,5,6
+257,370,JUDr. Lenka Halmešová,Okresný súd Nitra,9,4,0,8
+258,932,JUDr. Mária Ondrejová,Okresný súd Nitra,3,4,9,6
+259,421,JUDr. Marianna Hosťovecká,Okresný súd Galanta,10,3,7,3
+260,2552,JUDr. Michaela Kotusová Hucová,Okresný súd Košice II,10,3,7,3
+261,3070,JUDr. Natália Štrkolcová,Okresný súd Košice okolie,5,6,6,6
+262,1356,JUDr. Noema Turanovičová,Okresný súd Prievidza,3,6,8,6
+263,986,JUDr. Peter Philadelphy,Okresný súd Banská Bystrica,3,8,10,4
+264,317,JUDr. Silvia Gandelová,Okresný súd Bratislava III,9,2,4,6
+265,626,JUDr. Viera Kováčová,Okresný súd Levice,7,5,6,5
+266,1198,JUDr. Vincent Svoboda,Okresný súd Michalovce,5,7,7,5
+267,2054,Mgr. Peter Revický,Okresný súd Prešov,10,0,1,8
+268,2577,Mgr. Zuzana Gašpirová,Okresný súd Bratislava II ,6,5,4,7
+269,1083,JUDr. Alena Roštárová,Okresný súd Bratislava II ,6,4,4,7
+270,758,JUDr. Anna Majeriková,Okresný súd Žilina,5,4,5,7
+271,86,JUDr. Daniela Bergerová,Okresný súd Bratislava V,6,4,4,7
+272,525,JUDr. Erik Kačmár,Okresný súd Trenčín,6,3,6,6
+273,480,JUDr. Ivana Jaďuďová,Okresný súd Komárno,10,2,7,3
+274,3209,JUDr. Mária Szabóová,Okresný súd Bratislava II ,4,4,9,5
+275,1225,JUDr. Marta Šašinková,Okresný súd Bratislava II ,6,6,6,5
+276,1062,JUDr. Peter Rajňák,Okresný súd Nové Zámky,7,5,7,4
+277,970,JUDr. Rastislav Pella,Okresný súd Košice II,10,3,5,4
+278,1001,JUDr. Rastislav Plutinský,Okresný súd Dolný Kubín,4,6,8,5
+279,161,JUDr. Slavomír Cimerman,Okresný súd Veľký Krtíš,3,9,9,4
+280,1154,"JUDr. Stanislav Sojka, PhD.",Okresný súd Michalovce,3,10,10,3
+281,1206,Mgr. Erika Szalaiová,Okresný súd Dunajská Streda,8,2,3,7
+282,348,Mgr. Lívia Gombárová,Okresný súd Nové Zámky,9,5,8,2
+283,824,Mgr. Peter Mezőszállási,Okresný súd Komárno,6,7,7,4
+284,91,Mgr. Zuzana Bezáková,Okresný súd Nitra,3,6,9,5
+285,874, Marián Mokoš,Okresný súd Topoľčany,3,5,6,7
+286,732,JUDr. Anna Lisá,Okresný súd Humenné,10,1,4,5
+287,728,JUDr. Daniela Linetová,Okresný súd Bratislava III,5,6,5,6
+288,727,JUDr. David Lindtner,Okresný súd Bratislava III,4,7,10,3
+289,408,JUDr. Ivo Hlucháň,Okresný súd Považská Bystrica,3,8,9,4
+290,2582,JUDr. Ján Petreás,Okresný súd Zvolen,6,5,6,5
+291,85,JUDr. Jana Berešová,Okresný súd Trebišov,3,7,8,5
+292,848,JUDr. Jozef Mikluš,Okresný súd Košice I,4,3,9,5
+293,737,JUDr. Ladislav Lóška,Okresný súd Lučenec,3,8,9,4
+294,3214,JUDr. Lenka Augustínová,Okresný súd Žilina,4,5,5,7
+295,622,JUDr. Mária Kováčiková,Okresný súd Banská Bystrica,7,3,6,5
+296,898,JUDr. Mária Nagyová,Okresný súd Nové Zámky,8,6,8,2
+297,334,JUDr. Mikuláš Géczi,Okresný súd Lučenec,4,2,5,8
+298,971,JUDr. Miriam Penjaková,Okresný súd Ružomberok,3,8,9,4
+299,1168,JUDr. Miriam Srogončíková,Okresný súd Námestovo,7,4,7,4
+300,3416,JUDr. Miroslava Šibíková,Okresný súd Nové Mesto nad Váhom,1,5,5,9
+301,3337,JUDr. Monika Šabľová,Okresný súd Poprad,4,4,7,6
+302,3357,JUDr. Monika Vozárová,Okresný súd Trnava,6,3,4,7
+303,1432,JUDr. Myrtill Vojteková,Okresný súd Galanta,6,4,8,4
+304,1465,JUDr. Nora Zátopková,Okresný súd Martin,5,4,6,6
+305,911,JUDr. Oľga Nižňanská,Okresný súd Bratislava II ,7,4,4,6
+306,1081,JUDr. Pavel Rohárik,Okresný súd Banská Bystrica,9,2,6,4
+307,32,JUDr. Radoslav Baláž,Okresný súd Spišská Nová Ves,3,7,8,5
+308,1177,JUDr. Rastislav Stieranka,Okresný súd Dolný Kubín,5,7,9,3
+309,635,JUDr. Renáta Krajčiová,Okresný súd Ružomberok,3,7,8,5
+310,834,JUDr. Renáta Mihalíková,Okresný súd Topoľčany,3,7,8,5
+311,626,JUDr. Viera Kováčová,Okresný súd Košice II,10,1,4,5
+312,100,JUDr. Zuzana Biščáková,Okresný súd Prešov,5,6,8,4
+313,211,Mgr. Adriana Dobiášová,Okresný súd Nitra,3,3,7,7
+314,2149,Mgr. Mgr. Miriam Plavčáková,Okresný súd Bratislava I,10,0,0,8
+315,1328,Mgr. Pavol Tomík,Okresný súd Bratislava I,3,4,8,6
+316,273,Mgr. Štefan Fedor,Okresný súd Prievidza,6,5,6,5
+317,464, Ľuboš Chrenko,Okresný súd Topoľčany,3,5,4,8
+318,800,JUDr. Andrej Matušovic,Okresný súd Žiar nad Hronom,3,2,10,5
+319,267,JUDr. Beáta Farkašová,Okresný súd Bratislava III,7,4,5,5
+320,1063,JUDr. Daniela Rajňáková,Okresný súd Nové Zámky,3,8,7,5
+321,1363,JUDr. Erik Uhlár,Okresný súd Stará Ľubovňa,3,2,7,7
+322,3170,JUDr. Eva Kerecmanová,Okresný súd Košice okolie,4,3,4,8
+323,1120,JUDr. Eva Schweitzerová,Okresný súd Galanta,4,5,9,4
+324,1353,JUDr. Gabriela Tučková,Okresný súd Žilina,3,9,8,4
+325,55,JUDr. Ivan Bartek,Okresný súd Bratislava III,6,6,5,5
+326,3055,JUDr. Lenka Bowker,Okresný súd Košice I,10,2,3,5
+327,441,JUDr. Ľubomír Hudák,Okresný súd Malacky,3,7,9,4
+328,1082,JUDr. Marián Rošak,Okresný súd Martin,3,7,9,4
+329,539,JUDr. Mário Karaffa,Okresný súd Galanta,10,3,7,2
+330,777,JUDr. Markéta Marečková,Okresný súd Poprad,9,3,5,4
+331,2566,JUDr. Miroslav Šedivec,Okresný súd Revúca,3,7,9,4
+332,1084,JUDr. Pavol Roth,Okresný súd Poprad,3,5,10,4
+333,1273,JUDr. René Štepánik,Okresný súd Bratislava V,3,7,9,4
+334,860,JUDr. Silvia Minková,Okresný súd Zvolen,5,6,6,5
+335,3278,JUDr. Tatiana Redenkovičová,Okresný súd Bratislava IV,5,2,5,7
+336,429,JUDr. Vladimír Hric,Okresný súd Poprad,3,5,10,4
+337,631,JUDr. Vladimír Kozáčik,Okresný súd Žilina,7,3,4,6
+338,495,Mgr. Alena Jančulová,Okresný súd Čadca,5,5,5,6
+339,990,Mgr. Daniela Pilarčíková,Okresný súd Námestovo,3,7,9,4
+340,741,Mgr. Juraj Lukáč,Okresný súd Liptovský Mikuláš,3,6,8,5
+341,1238,Mgr. Katarína Šimková,Okresný súd Trenčín,3,5,4,8
+342,426,Mgr. Marta Hrenčuková,Okresný súd Rožňava,3,7,9,4
+343,2580,"Mgr. Radoslav Smatana, PhD.",Okresný súd Partizánske,3,5,7,6
+344,460,Mgr. Vojtech Chmelan,Okresný súd Prievidza,3,7,9,4
+345,111, Ján Bodnár,Okresný súd Rimavská Sobota,3,4,10,4
+346,1175,JUDr. Blažena Stašíková,Okresný súd Ružomberok,4,7,9,3
+347,339,JUDr. Iveta Gildeinová,Okresný súd Humenné,4,4,6,6
+348,372,JUDr. Iveta Halvoňová,Okresný súd Bratislava III,4,4,9,4
+349,1360,JUDr. Jana Tvrdá,Okresný súd Piešťany,4,4,6,6
+350,2563,JUDr. Karol Rihák,Okresný súd Bratislava IV,5,5,3,7
+351,658,JUDr. Katarína Krivulčíková,Okresný súd Považská Bystrica,3,7,7,5
+352,967,JUDr. Lenka Pavlovičová,Okresný súd Nové Mesto nad Váhom,3,4,4,8
+353,270,JUDr. Ľubica Farkašová,Okresný súd Nitra,5,5,6,5
+354,1402,JUDr. Ľubov Vargová,Okresný súd Humenné,1,8,7,6
+355,3430,JUDr. Lucia Tóth,Okresný súd Bratislava IV,8,3,4,5
+356,403,JUDr. Mária Hirjaková,Okresný súd Michalovce,4,5,7,5
+357,948,JUDr. Michaela Pacherová,Okresný súd Bratislava II ,5,3,7,5
+358,993,JUDr. Miriam Pintová,Okresný súd Levice,9,3,6,3
+359,586,JUDr. Natália Kolláriková,Okresný súd Bratislava V,8,3,4,5
+360,1306,JUDr. Oľga Tatranská,Okresný súd Košice okolie,10,1,6,3
+361,2418,JUDr. Oliver Kolenčík,Okresný súd Nitra,5,8,6,4
+362,397,JUDr. Peter Heinrich,Okresný súd Nitra,5,3,4,7
+363,501,JUDr. Róbert Jankovský,Okresný súd Považská Bystrica,3,6,9,4
+364,563,JUDr. Zdenka Kleimanová,Okresný súd Bratislava V,10,2,4,4
+365,677,JUDr. Zuzana Kudlovská,Okresný súd Košice I,10,1,3,5
+366,924,Mgr. Janette Nôtová,Okresný súd Zvolen,7,5,7,3
+367,697,Mgr. Lenka Kvasnicová,Okresný súd Trenčín,8,2,3,6
+368,1128,Mgr. Peter Sivák,Okresný súd Humenné,4,5,7,5
+369,3013,JUDr. Adriana Pytliaková Dr.,Okresný súd Čadca,4,3,6,6
+370,325,JUDr. Alica Gavalcová,Okresný súd Brezno,3,8,6,5
+371,779,JUDr. Alžbeta Marková,Okresný súd Rimavská Sobota,0,10,2,9
+372,905,JUDr. Erika Némethová Stiffelová,Okresný súd Bratislava V,3,5,9,4
+373,149,JUDr. Janka Butašová,Okresný súd Skalica,10,0,3,5
+374,1019,JUDr. Karol Posluch,Okresný súd Bratislava III,3,5,9,4
+375,496,JUDr. Katarína Janečková,Okresný súd Rožňava,3,5,6,6
+376,479,JUDr. Mária Jačeková Sziegel,Okresný súd Dunajská Streda,7,3,6,4
+377,987,JUDr. Mariana Philadelphyová,Okresný súd Zvolen,3,5,9,4
+378,2539,JUDr. Michal Mravec,Okresný súd Čadca,4,6,6,5
+379,1351,JUDr. Milan Trylč,Okresný súd Senica,4,7,10,2
+380,2578,JUDr. Monika Kráľová,Okresný súd Spišská Nová Ves,3,8,9,3
+381,93,JUDr. Pavol Bielik,Okresný súd Prievidza,4,5,8,4
+382,44,JUDr. Peter Banský,Okresný súd Zvolen,6,5,6,4
+383,1201,JUDr. Renáta Sýkorová,Okresný súd Žilina,2,9,5,6
+384,1136,JUDr. Viera Sláviková,Okresný súd Senica,5,5,7,4
+385,1397,JUDr. Vladimír Varga,Okresný súd Humenné,3,5,9,4
+386,846,JUDr. Zuzana Miklošová,Okresný súd Trebišov,3,7,5,6
+387,1125,JUDr. Zuzana Singerová,Okresný súd Nitra,10,3,6,2
+388,1151,Mgr. Dagmar Snopeková,Okresný súd Topoľčany,3,5,6,6
+389,2065,JUDr. Andrej Radomský,Okresný súd Michalovce,6,4,6,4
+390,169,JUDr. Denisa Cviková,Okresný súd Bratislava I,5,2,8,4
+391,1220,JUDr. Denisa Šaligová,Okresný súd Nitra,9,4,0,6
+392,702,JUDr. Gabriela Kyseľová,Okresný súd Námestovo,7,3,7,3
+393,198,JUDr. Ivan Daňo,Okresný súd Humenné,3,4,9,4
+394,3196,JUDr. Jana Zuzan,Okresný súd Žiar nad Hronom,5,3,6,5
+395,647,JUDr. Jozefína Králová,Okresný súd Bratislava IV,8,3,6,3
+396,30,JUDr. Ľubica Balalová,Okresný súd Trenčín,4,4,5,6
+397,920,JUDr. Ľubica Novotná,Okresný súd Bratislava II ,5,3,6,5
+398,653,JUDr. Ľubomíra Krchníková,Okresný súd Pezinok,3,5,7,5
+399,2420,JUDr. Ľubomíra Krišťáková,Okresný súd Čadca,8,3,3,5
+400,1414,JUDr. Ľuboš Vereš,Okresný súd Košice I,4,2,9,4
+401,764,JUDr. Marcela Malatká,Okresný súd Žilina,4,5,6,5
+402,1487,JUDr. Mária Žáková,Okresný súd Košice I,4,4,5,6
+403,1333,JUDr. Marián Török,Okresný súd Revúca,3,8,10,2
+404,977,JUDr. Milan Petričko,Okresný súd Trebišov,3,2,10,4
+405,825,JUDr. Oľga Mičietová,Okresný súd Košice II,10,2,3,4
+406,487,JUDr. Rastislav Jakubovič,Okresný súd Galanta,10,3,7,1
+407,1413,JUDr. Sandra Veľká,Okresný súd Košice I,10,1,5,3
+408,134,JUDr. Vladimír Buchvald,Okresný súd Bratislava II ,4,5,9,3
+409,797,JUDr. Zdenka Mattielighová,Okresný súd Bratislava III,3,8,4,6
+410,54,JUDr. Zuzana Bartalská,Okresný súd Bratislava V,3,5,7,5
+411,593,JUDr. Adriana Konkolovská,Okresný súd Komárno,5,7,8,2
+412,1000,JUDr. Anna Plichtíková,Okresný súd Čadca,6,6,6,3
+413,888,JUDr. Drahomír Mrva,Okresný súd Žilina,6,3,3,6
+414,947,JUDr. Dušan Pagáč,Okresný súd Martin,7,4,6,3
+415,61,JUDr. Erika Bebčáková,Okresný súd Žilina,3,6,9,3
+416,733,JUDr. Helena Loduhová,Okresný súd Považská Bystrica,3,6,9,3
+417,1278,JUDr. Ivana Štiftová,Okresný súd Bratislava II ,7,4,6,3
+418,1116,JUDr. Jana Scholtzová,Okresný súd Žilina,8,2,3,5
+419,1449,JUDr. Júlia Weiserová,Okresný súd Spišská Nová Ves,3,7,7,4
+420,53,JUDr. Katarína Bartalská,Okresný súd Bratislava I,5,5,3,6
+421,136,JUDr. Ladislav Bujňák,Okresný súd Košice I,3,6,9,3
+422,1010,JUDr. Marián Polaček,Okresný súd Prešov,3,5,8,4
+423,3390,JUDr. Marianna Hirková,Okresný súd Humenné,0,1,4,10
+424,978,JUDr. Martina Petríková,Okresný súd Levice,6,5,5,4
+425,446,JUDr. Milan Hupka,Okresný súd Bratislava II ,6,5,5,4
+426,1058,JUDr. Miroslav Radačovský,Okresný súd Poprad,10,2,4,3
+427,166,JUDr. Oľga Csémyová,Okresný súd Dunajská Streda,9,2,5,3
+428,1395,JUDr. Pavel Varga,Okresný súd Košice I,5,8,6,3
+429,3211,JUDr. Peter Kalata,Okresný súd Bratislava IV,7,5,4,4
+430,1292,JUDr. Peter Šuťák,Okresný súd Prešov,3,5,8,4
+431,1455,JUDr. Róbert Záhorák,Okresný súd Nové Zámky,10,3,8,0
+432,669,Mgr. Andrea Kubjatková,Okresný súd Čadca,6,5,5,4
+433,276,Mgr. Ivana Fekete,Okresný súd Bratislava III,6,4,4,5
+434,607,Mgr. Jana Kosorínová,Okresný súd Levice,3,7,7,4
+435,271,Mgr. Monika Farkašová,Okresný súd Nitra,3,6,9,3
+436,649,JUDr. Andrea Kralovičová,Okresný súd Malacky,3,5,6,5
+437,1293,JUDr. Beáta Šuťaková,Okresný súd Prešov,1,6,6,6
+438,274,JUDr. Blažena Fedorková,Okresný súd Spišská Nová Ves,3,5,6,5
+439,984,JUDr. Elena Petrusová,Okresný súd Veľký Krtíš,6,4,5,4
+440,1291,JUDr. Elena Šuríková,Okresný súd Nové Mesto nad Váhom,6,10,5,2
+441,95,JUDr. Eva Bieliková,Okresný súd Bratislava II ,7,3,3,5
+442,966,JUDr. Ivan Pavlovič,Okresný súd Nové Mesto nad Váhom,3,6,7,4
+443,1200,JUDr. Iveta Sýkorová,Okresný súd Žilina,10,1,1,5
+444,1017,JUDr. Ján Poprocký,Okresný súd Košice I,3,5,9,3
+445,1129,JUDr. Ján Skalický,Okresný súd Pezinok,2,7,9,3
+446,228,JUDr. Jana Dubivská,Okresný súd Bardejov,2,7,6,5
+447,410,JUDr. Katarína Holečková,Okresný súd Banská Bystrica,5,5,7,3
+448,1268,JUDr. Katarína Šťastná,Okresný súd Spišská Nová Ves,2,6,5,6
+449,136,JUDr. Ladislav Bujňák,Okresný súd Trebišov,3,3,10,3
+450,286,JUDr. Mária Filová,Okresný súd Bratislava V,7,5,5,3
+451,933,JUDr. Mária Ondriašová,Okresný súd Bratislava I,4,0,9,4
+452,985,JUDr. Mária Petrušková,Okresný súd Poprad,3,5,9,3
+453,1446,JUDr. Nadežda Wallnerová,Okresný súd Malacky,1,7,7,5
+454,1485,JUDr. Róbert Zsiga,Okresný súd Košice I,5,5,4,5
+455,1014,JUDr. Tatiana Poláková,Okresný súd Bratislava IV,10,2,2,4
+456,308,JUDr. Tibor Gál,Okresný súd Brezno,5,6,5,4
+457,679,JUDr. Viera Kukučková,Okresný súd Bratislava III,3,8,3,6
+458,1075,JUDr. Zuzana Rigáňová,Okresný súd Bratislava IV,10,3,3,3
+459,1185,Mgr. Eva Strašková,Okresný súd Veľký Krtíš,3,7,8,3
+460,1192,Mgr. Eva Suchová,Okresný súd Bratislava IV,3,5,6,5
+461,853,Mgr. Marek Mikulčík,Okresný súd Pezinok,10,1,4,3
+462,277,Mgr. Maroš Fekete,Okresný súd Bratislava III,3,7,5,5
+463,1183,Mgr. Peter Straka,Okresný súd Lučenec,7,5,5,3
+464,1346,JUDr. Anna Trnková,Okresný súd Nitra,5,0,9,3
+465,2642,JUDr. Boris Brondoš,Okresný súd Košice I,7,2,3,5
+466,2567,JUDr. Dušan Špirek,Okresný súd Levice,3,4,9,3
+467,1357,JUDr. Janka Túryová,Okresný súd Košice II,3,5,7,4
+468,809,JUDr. Jozef Medveď,Okresný súd Žiar nad Hronom,1,10,5,5
+469,1684,JUDr. Marek Bujňák,Okresný súd Prešov,5,3,0,8
+470,301,JUDr. Marián Furman,Okresný súd Poprad,3,4,6,5
+471,450,JUDr. Milan Husťák,Okresný súd Košice I,4,5,9,2
+472,1331,JUDr. Renáta Topolčanská,Okresný súd Trenčín,2,5,5,6
+473,762,JUDr. Roman Majerský,Okresný súd Pezinok,6,10,0,5
+474,1296,JUDr. Zdenko Švárny,Okresný súd Michalovce,6,4,6,3
+475,436,Mgr. Bohuš Hruška,Okresný súd Zvolen,6,5,7,2
+476,216,Mgr. Erika Dodulíková,Okresný súd Čadca,3,6,8,3
+477,2560,Mgr. Ľudmila Ostrolucká,Okresný súd Zvolen,5,5,5,4
+478,1437,JUDr. Alica Vörösová,Okresný súd Dunajská Streda,5,3,4,5
+479,102,JUDr. Beáta Bizoňová,Okresný súd Bratislava I,5,2,0,8
+480,1156,JUDr. Dagmar Soliarová,Okresný súd Poprad,2,4,5,6
+481,46,JUDr. Daniela Baranová,Okresný súd Prešov,10,2,1,4
+482,1218,JUDr. Eva Šajmovičová,Okresný súd Bratislava V,6,5,5,3
+483,1400,JUDr. Eva Vargová,Okresný súd Trebišov,5,3,4,5
+484,201,JUDr. Ingrid Daxner,Okresný súd Pezinok,10,0,2,4
+485,1166,JUDr. Ivan Spurný,Okresný súd Žiar nad Hronom,8,2,0,6
+486,735,JUDr. Ján Lokša,Okresný súd Košice II,4,6,8,2
+487,163,JUDr. Jana Coboriová,Okresný súd Nitra,5,5,6,3
+488,926,JUDr. Jana Ocelková,Okresný súd Pezinok,10,1,3,3
+489,757,JUDr. Janka Majerčíková,Okresný súd Ružomberok,3,5,5,5
+490,720,JUDr. Juraj Lehotský,Okresný súd Zvolen,5,6,7,2
+491,263,JUDr. Katarína Fakanová,Okresný súd Bratislava II ,5,4,2,6
+492,1263,JUDr. Mária Špániková,Okresný súd Pezinok,10,1,3,3
+493,1146,JUDr. Martin Smolko,Okresný súd Trnava,5,6,7,2
+494,1186,JUDr. Martin Stretavský,Okresný súd Michalovce,3,10,10,0
+495,3367,JUDr. Michal Drimák,Okresný súd Prešov,9,2,2,4
+496,866,JUDr. Milan Mitterpák,Okresný súd Michalovce,9,4,7,0
+497,1172,JUDr. Milan Staněk,Okresný súd Bratislava II ,7,3,2,5
+498,2419,JUDr. Oľga Kováčová,Okresný súd Komárno,10,2,7,0
+499,830,JUDr. Soňa Mihaľáková,Okresný súd Košice II,4,5,7,3
+500,1112,JUDr. Stanislava Semanová,Okresný súd Spišská Nová Ves,4,4,6,4
+501,925,JUDr. Viera Obermanová,Okresný súd Košice II,10,1,3,3
+502,1384,JUDr. Vlastimil Valkovič,Okresný súd Topoľčany,3,0,9,4
+503,896,Mgr. Jozef Nadzam,Okresný súd Trebišov,3,4,10,2
+504,981,Mgr. Kamil Petrovič,Okresný súd Košice II,10,1,0,5
+505,587,Mgr. Nina Kollárová,Okresný súd Poprad,9,2,2,4
+506,1706,JUDr. Imrich Hlavička,Okresný súd Komárno,3,8,9,1
+507,1348,JUDr. Ing. Erika Trtalová,Okresný súd Nové Mesto nad Váhom,5,3,2,6
+508,2569,JUDr. Ján Šulgan,Okresný súd Veľký Krtíš,2,6,8,3
+509,662,JUDr. Jana Krnáčová,Okresný súd Zvolen,5,4,3,5
+510,520,JUDr. Katarína Jusková,Okresný súd Košice II,10,1,4,2
+511,1375,JUDr. Katarína Vachulíková,Okresný súd Nové Zámky,3,7,8,2
+512,996,JUDr. Ladislav Piros,Okresný súd Dunajská Streda,4,6,9,1
+513,3372,JUDr. Lenka Saksunová,Okresný súd Košice II,1,4,4,7
+514,104,JUDr. Mária Blahovská,Okresný súd Spišská Nová Ves,2,5,7,4
+515,650,JUDr. Mária Krausová,Okresný súd Topoľčany,3,2,9,3
+516,1318,JUDr. Miroslav Toma,Okresný súd Žiar nad Hronom,3,4,8,3
+517,16,JUDr. Renáta Audová,Okresný súd Senica,4,6,9,1
+518,74,JUDr. Roman Benedikovič,Okresný súd Bratislava V,2,9,8,2
+519,253,JUDr. Stanislav Dutko,Okresný súd Bratislava I,3,4,8,3
+520,1133,JUDr. Viera Sládečková,Okresný súd Bratislava III,7,3,3,4
+521,361,Mgr. Andrea Hadnagyová,Okresný súd Piešťany,3,4,5,5
+522,79,Mgr. Janka Benkovičová,Okresný súd Nitra,8,2,4,3
+523,703,Mgr. Libor Kysucký,Okresný súd Považská Bystrica,4,7,7,2
+524,1461,Mgr. Pamela Záleská,Okresný súd Nitra,3,5,9,2
+525,935,JUDr. Dáša Onuferová,Okresný súd Bratislava III,6,4,3,4
+526,1203,JUDr. Eduard Szabo,Okresný súd Partizánske,7,2,6,2
+527,1152,JUDr. Gabriela Sobolovská,Okresný súd Bratislava II ,6,4,3,4
+528,1453,JUDr. Iveta Willantová,Okresný súd Bratislava V,3,7,9,1
+529,1004,JUDr. Katarína Podhorcová,Okresný súd Liptovský Mikuláš,3,7,6,3
+530,585,JUDr. Martin Kollár,Okresný súd Zvolen,4,5,9,1
+531,670,JUDr. Monika Kublová,Okresný súd Nitra,5,7,7,1
+532,1276,JUDr. Patrik Števík,Okresný súd Bratislava II ,6,6,5,2
+533,135,JUDr. Tatiana Buchvaldová,Okresný súd Bratislava III,7,5,6,1
+534,1018,JUDr. Tatiana Porubänová,Okresný súd Trenčín,5,4,4,4
+535,734,JUDr. Zuzana Lohnertová,Okresný súd Bratislava III,2,6,3,6
+536,938,Mgr. Alexandra Osadská,Okresný súd Nitra,3,6,8,2
+537,1251,Mgr. Katarína Škultétyová,Okresný súd Bratislava I,4,3,4,5
+538,1314,Mgr. Silvia Tisová,Okresný súd Žilina,2,8,8,2
+539,959,JUDr. Arpád Pastorek,Okresný súd Komárno,10,1,3,2
+540,2479,JUDr. Emília Horňáková,Okresný súd Senica,5,6,7,1
+541,321,JUDr. Jana Gargulová,Okresný súd Spišská Nová Ves,5,4,5,3
+542,943,JUDr. Miriam Oswaldová,Okresný súd Bratislava IV,10,1,0,4
+543,481,JUDr. Miroslav Jagnešák,Okresný súd Námestovo,5,3,4,4
+544,266,JUDr. Roman Farkaš,Okresný súd Bratislava II ,4,6,8,1
+545,287,JUDr. Roman Fitt,Okresný súd Bratislava III,3,4,7,3
+546,2547,Mgr. Jana Janics Bajánková,Okresný súd Bratislava I,4,1,0,8
+547,3345,Mgr. Martin Bauer,Okresný súd Martin,5,7,8,0
+548,3,Mgr. Stella Al Khufash,Okresný súd Senica,6,4,7,1
+549,1031,JUDr. Janka Pravotiaková,Okresný súd Košice I,5,6,5,2
+550,303,JUDr. Ladislav Gábor,Okresný súd Košice I,5,5,4,3
+551,463,JUDr. Lucia Chrapková,Okresný súd Piešťany,6,4,5,2
+552,552,JUDr. Mária Képessyová,Okresný súd Dunajská Streda,4,5,8,1
+553,529,JUDr. Marta Kamenská,Okresný súd Veľký Krtíš,4,4,4,4
+554,1013,JUDr. Michal Polák,Okresný súd Košice II,3,6,7,2
+555,1122,JUDr. Rastislav Sikorjak,Okresný súd Prešov,4,3,0,7
+556,233,JUDr. Viera Dubovinská,Okresný súd Spišská Nová Ves,4,4,4,4
+557,1163,JUDr. Vladimír Sopúch,Okresný súd Nitra,3,3,7,3
+558,1682,Mgr. Boris Vittek,Okresný súd Trenčín,5,3,2,5
+559,2558,Mgr. Dalibor Miľan,Okresný súd Zvolen,5,4,6,2
+560,1289,Mgr. Miroslava Šúleková,Okresný súd Topoľčany,1,10,7,2
+561,999,JUDr. Barbara Plaskurová,Okresný súd Nové Mesto nad Váhom,2,3,0,8
+562,630,JUDr. Margita Kovaľová,Okresný súd Námestovo,3,5,4,4
+563,71,JUDr. Monika Bellová,Okresný súd Senica,4,7,8,0
+564,550,JUDr. Roland Kemény,Okresný súd Bratislava I,3,3,8,2
+565,592,Mgr. Daniel Koneracký,Okresný súd Levice,1,4,5,5
+566,524,JUDr. Dana Káčerová,Okresný súd Bratislava I,4,1,0,7
+567,269,JUDr. Eva Farkašová,Okresný súd Prešov,3,4,4,4
+568,826,JUDr. Janka Mičková,Okresný súd Košice II,10,1,3,1
+569,323,JUDr. Katarína Gašparová,Okresný súd Bratislava II ,0,4,4,6
+570,1055,JUDr. Marta Raábová,Okresný súd Košice II,8,3,1,3
+571,915,JUDr. Tomáš Novák,Okresný súd Prešov,2,7,2,5
+572,174,JUDr. Zdenko Čaniga,Okresný súd Pezinok,2,8,9,0
+573,458,Mgr. Dušan Chamula,Okresný súd Žilina,10,1,0,3
+574,1475,Mgr. Vladimír Zimányi,Okresný súd Piešťany,10,2,1,2
+575,1431,JUDr. Andrea Vojteková Fejérová,Okresný súd Nové Mesto nad Váhom,3,3,1,6
+576,1050,JUDr. Darina Puklušová,Okresný súd Spišská Nová Ves,3,4,5,3
+577,196,JUDr. Ivana Dančová,Okresný súd Bratislava II ,7,2,2,3
+578,809,JUDr. Jozef Medveď,Okresný súd Martin,1,6,3,5
+579,2,JUDr. Ľubica Adamčíková,Okresný súd Košice okolie,3,6,4,3
+580,596,JUDr. Martin Kopšo,Okresný súd Bratislava IV,4,7,4,2
+581,132,JUDr. Dagmar Buchalová,Okresný súd Bratislava II ,7,3,4,1
+582,239,JUDr. Helena Dudzíková,Okresný súd Topoľčany,2,9,6,1
+583,620,JUDr. Ján Kováč,Okresný súd Nitra,8,3,3,1
+584,1305,JUDr. Jana Tamašiová,Okresný súd Bratislava V,4,5,3,3
+585,743,JUDr. Peter Lukáč,Okresný súd Žiar nad Hronom,3,7,0,5
+586,180,JUDr. Valéria Černegová,Okresný súd Bratislava V,6,6,5,0
+587,1323,JUDr. Zdenka Tomašková,Okresný súd Bardejov,3,6,8,0
+588,818,Mgr. Denisa Mesárošová,Okresný súd Nitra,8,2,2,2
+589,2562,Mgr. Gabriela Repková,Okresný súd Považská Bystrica,1,2,6,4
+590,3215,Mgr. Ing. Ladislav Burda,Okresný súd Trebišov,5,6,0,4
+591,1171,Mgr. Ján Stanček,Okresný súd Pezinok,6,3,2,3
+592,1593,Mgr. Monika Czafiková,Okresný súd Komárno,0,3,5,5
+593,922,Mgr. Rudolf Novotný,Okresný súd Dunajská Streda,4,4,8,0
+594,779,JUDr. Alžbeta Marková,Okresný súd Bratislava IV,0,0,0,9
+595,1327,JUDr. Gabriela Tomvčovčíková Šandalová,Okresný súd Košice II,1,10,0,5
+596,1080,JUDr. Ivan Roháč,Okresný súd Humenné,3,3,9,0
+597,1093,JUDr. Ján Rybárik,Okresný súd Žilina,10,1,3,0
+598,574,JUDr. Judita Knociková,Okresný súd Trenčín,7,1,0,4
+599,1436,JUDr. Katarína Vorobelová,Okresný súd Prešov,0,6,0,7
+600,671,JUDr. Mária Kubusová,Okresný súd Poprad,10,1,3,0
+601,101,JUDr. Oľga Bitalová,Okresný súd Stará Ľubovňa,2,6,1,5
+602,223,JUDr. Zuzana Doricová,Okresný súd Bratislava I,4,1,0,6
+603,395,JUDr. Andrea Havírová,Okresný súd Vranov nad Topľou,4,4,7,0
+604,192,JUDr. Eliška Čonková,Okresný súd Trebišov,3,5,6,1
+605,2447,JUDr. Peter Koman,Okresný súd Poprad,8,6,2,0
+606,1024,Mgr. Raul Pospíšil,Okresný súd Bratislava II ,6,2,0,4
+607,1335,JUDr. Július Tóth,Okresný súd Košice I,4,5,3,2
+608,502,JUDr. Milina Jánošková,Okresný súd Trenčín,6,2,1,3
+609,1320,JUDr. Nadežda Tomanicová,Okresný súd Bratislava IV,2,6,3,3
+610,362,JUDr. Viera Hadrbulcová,Okresný súd Bratislava I,3,1,0,6
+611,221,JUDr. Vladimír Donič,Okresný súd Humenné,7,2,0,3
+612,963,Mgr. Gizela Pavelová,Okresný súd Košice I,2,8,5,1
+613,268,JUDr. Dana Farkášová,Okresný súd Prešov,0,3,0,7
+614,139,JUDr. Gabriela Buľubašová,Okresný súd Bratislava I,4,4,0,4
+615,628,JUDr. Jana Kovalčíková,Okresný súd Zvolen,5,4,5,0
+616,534,JUDr. Jaroslav Kanderka,Okresný súd Prešov,3,4,1,4
+617,2554,JUDr. Martina Líšková,Okresný súd Bratislava I,4,1,0,5
+618,1053,JUDr. Iveta Puškášová,Okresný súd Košice okolie,4,4,4,1
+619,930,JUDr. Katarína Ondrejáková,Okresný súd Malacky,10,0,0,1
+620,1321,JUDr. Pavol Tomáš,Okresný súd Banská Bystrica,1,3,6,2
+621,3207,JUDr. Zuzana Hlistová,Okresný súd Bratislava I,5,1,0,4
+622,1786,Mgr. Anna Holeščáková,Okresný súd Čadca,4,4,1,3
+623,1355,JUDr. Eva Tulejová,Okresný súd Bratislava I,3,1,0,5
+624,218,JUDr. Otília Doláková,Okresný súd Bratislava I,6,1,0,3
+625,711,JUDr. Viera Lamprechtová,Okresný súd Bratislava III,4,2,0,4
+626,681,JUDr. Viera Kumová,Okresný súd Trenčín,7,1,0,2
+627,852,Mgr. Vanda Mikulášová,Okresný súd Námestovo,4,3,5,0
+628,52,JUDr. Marta Barková,Okresný súd Bratislava I,2,4,0,4
+629,109,Mgr. Ivica Blecharžová,Okresný súd Bratislava V,3,5,0,3
+630,434,JUDr. Andrea Hrneková,Okresný súd Bratislava I,3,4,0,3
+631,964,JUDr. Edita Pavková,Okresný súd Trebišov,4,4,2,1
+632,425,JUDr. Ivona Hrčeková,Okresný súd Bratislava I,2,3,0,4
+633,595,JUDr. Martin Kopina,Okresný súd Vranov nad Topľou,0,1,0,6
+634,2567,JUDr. Dušan Špirek,Okresný súd Nitra,0,7,1,3
+635,685,JUDr. Marián Kurinec,Okresný súd Bratislava III,8,2,0,0
+636,320,JUDr. Slávka Garančovská,Okresný súd Košice I,2,4,2,2
+637,1325,JUDr. Štefan Tomašovský,Okresný súd Prešov,3,6,3,0
+638,1667,Mgr. Lýdia Stehurová,Okresný súd Čadca,4,4,0,2
+639,3334,JUDr. Mariana Gavalierová,Okresný súd Poprad,4,3,0,2
+640,884,JUDr. Zuzana Moťovská Dobošová,Okresný súd Bratislava I,2,4,0,3
+641,3389,JUDr. Magdaléna Bošková,Okresný súd Bratislava I,0,0,0,5
+642,1324,Mgr. Andrea Tomašovičová,Okresný súd Trnava,0,0,0,5
+643,356,JUDr. Radovan Groman,Okresný súd Bratislava I,2,4,0,2
+644,881,JUDr. Anna Moravová,Okresný súd Bratislava III,1,2,0,3
+645,2413,JUDr. Milan Antal,Okresný súd Žiar nad Hronom,0,5,1,2
+646,147,JUDr. Agáta Burkušová,Okresný súd Košice II,0,2,0,3
+647,143,JUDr. Richard Bureš,Okresný súd Poprad,0,2,0,3
+648,260,JUDr. Jozef Engel,Okresný súd Humenné,0,4,0,2
+649,2423,JUDr. René Milták,Okresný súd Bratislava I,3,1,0,0
+650,1070,JUDr. Miriam Repáková,Okresný súd Bratislava I,0,3,0,1
+651,1274,JUDr. Jana Štepániková,Okresný súd Bratislava II ,0,2,0,0
