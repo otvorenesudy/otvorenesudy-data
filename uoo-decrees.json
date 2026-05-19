@@ -1,88 +1,18 @@
 {
-  "generated_at": "2026-05-18",
+  "generated_at": "2026-05-19",
   "source_url": "https://www.oznamovatelia.sk/o-nas/dokumenty/rozhodnutia-uradu/",
-  "pdf_count": 19,
-  "pdfs": [
-    {
-      "title": "8. Rozhodnutie z 10.10.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/12/Rozhodnutie_MVSR_1.-stupnove_471_2025_anonymizovane.pdf"
-    },
-    {
-      "title": "Druhostupňové rozhodnite z 24.11.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/12/Rozhodnutie_o_odvolani_MVSR_729_2025_anonymizovane.pdf"
-    },
-    {
-      "title": "7. Rozhodnutie z 16.6.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/10/Rozhodnutie_UPSVaR_1stupnove_anonymizovane.pdf"
-    },
-    {
-      "title": "Druhostupňové rozhodnutie z 12.9.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/10/Rozhodnutie_o_odvolani_UPSVAR_4583_2025_anonymizovane.pdf"
-    },
-    {
-      "title": "6. Rozhodnutie z 14.5.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/09/Rozhodnutie_MVSR_228_2025.pdf"
-    },
-    {
-      "title": "Druhostupňové rozhodnutie z 26.8.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/09/Rozhodnutie_o_odvolani_449_2025.pdf"
-    },
-    {
-      "title": "5. Rozhodnutie z 24.7.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/08/Rozhodnutie-o-spravnom-delikte_SPF.pdf"
-    },
-    {
-      "title": "4. Rozhodnutie z 3.2.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/07/rozhodnutie_MVSR_19_final_anonymizovane.pdf"
-    },
-    {
-      "title": "Druhostupňové rozhodnutie z 16.4.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/05/Rozhodnutie_o_odvolanI_MVSR_269_2025.pdf"
-    },
-    {
-      "title": "3. Rozhodnutie z 9.4.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/05/1947_2025_Rozhodnutie_SNM.pdf"
-    },
-    {
-      "title": "2. Rozhodnutie z 11.2.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/07/Rozhodnutie-VVS_anonymizovane.pdf"
-    },
-    {
-      "title": "Druhostupňové rozhodnutie z 21.3.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/03/Rozhodnutie_o_odvolani_VVS_anonymizovane.pdf"
-    },
-    {
-      "title": "1. Rozhodnutie z 14.2.2025",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/03/Rozhodnutie_Solosnica_final.pdf"
-    },
-    {
-      "title": "3. Rozhodnutie z 11.11.2024",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/12/Rozhodnutie_SUZA.pdf"
-    },
-    {
-      "title": "2. Rozhodnutie z 24.6.2024",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/10/Rozhodnutie_164_2024.pdf"
-    },
-    {
-      "title": "Druhostupňové rozhodnutie z 23.10.2024",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/10/Rozhodnutie_UOO_o_odvolani_4806_2024.pdf"
-    },
-    {
-      "title": "1. Rozhodnutie z 12.1.2024",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/05/Rozhodnutie_MZP.pdf"
-    },
-    {
-      "title": "Druhostupňové rozhodnutie z 22.4.2024",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/05/Druhostupnove_rozhodnutie_o_pokute_MZP.pdf"
-    },
-    {
-      "title": "1. Rozhodnutie",
-      "url": "https://www.oznamovatelia.sk/wp-content/uploads/2023/05/1.-Rozhodnutie.pdf"
-    }
-  ],
-  "data": [
+  "decrees": [
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/12/Rozhodnutie_MVSR_1.-stupnove_471_2025_anonymizovane.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/12/Rozhodnutie_MVSR_1.-stupnove_471_2025_anonymizovane.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "8. Rozhodnutie z 10.10.2025",
       "case_file_number": ["UOO-471/2025"],
       "file_identification_number": "5152/2025",
       "date": "10. 10. 2025",
@@ -99,6 +29,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/12/Rozhodnutie_o_odvolani_MVSR_729_2025_anonymizovane.pdf",
+      "parent_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/12/Rozhodnutie_MVSR_1.-stupnove_471_2025_anonymizovane.pdf",
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/12/Rozhodnutie_MVSR_1.-stupnove_471_2025_anonymizovane.pdf",
+      "relationship_to_parent": "second_instance_decision",
+      "effect_on_parent_decree": "confirmed",
+      "effect_on_chain_root_decree": "confirmed",
+      "approves_or_confirms_chain_root_decree": true,
+      "cancels_or_changes_chain_root_decree": false,
+      "relationship_notes": "vo veci odvolania zo dňa 24. 10. 2025 účastníka konania Ministerstvo vnútra Slovenskej republiky ... proti rozhodnutiu ... číslo spisu: UOO-471/2025, č. r. 5152/2025 zo dňa 10. 10. 2025; odvolanie ... z a m i e t a a prvostupňové rozhodnutie p o t v r d z u j e.",
+      "title": "Druhostupňové rozhodnite z 24.11.2025",
       "case_file_number": ["UOO-729/2025"],
       "file_identification_number": "6039/2025",
       "date": "24. 11. 2025",
@@ -115,6 +54,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/10/Rozhodnutie_UPSVaR_1stupnove_anonymizovane.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/10/Rozhodnutie_UPSVaR_1stupnove_anonymizovane.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "7. Rozhodnutie z 16.6.2025",
       "case_file_number": ["UOO-104/2025"],
       "file_identification_number": "3101/2025",
       "date": "16. 6. 2025",
@@ -131,6 +79,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/10/Rozhodnutie_o_odvolani_UPSVAR_4583_2025_anonymizovane.pdf",
+      "parent_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/10/Rozhodnutie_UPSVaR_1stupnove_anonymizovane.pdf",
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/10/Rozhodnutie_UPSVaR_1stupnove_anonymizovane.pdf",
+      "relationship_to_parent": "second_instance_decision",
+      "effect_on_parent_decree": "changed",
+      "effect_on_chain_root_decree": "changed",
+      "approves_or_confirms_chain_root_decree": false,
+      "cancels_or_changes_chain_root_decree": true,
+      "relationship_notes": "vo veci odvolania zo dňa 1. 7. 2025 účastníka konania Ústredie práce, sociálnych vecí a rodiny ... proti rozhodnutiu ... číslo spisu: UOO-104/2025, č. r. 3101/2025 zo dňa 16. 6. 2025; prvostupňové rozhodnutie podľa § 59 ods. 2 správneho poriadku m e n í tak, že",
+      "title": "Druhostupňové rozhodnutie z 12.9.2025",
       "case_file_number": ["UOO-550/2025"],
       "file_identification_number": "4583/2025",
       "date": "12.09.2025",
@@ -147,6 +104,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/09/Rozhodnutie_MVSR_228_2025.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/09/Rozhodnutie_MVSR_228_2025.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "6. Rozhodnutie z 14.5.2025",
       "case_file_number": ["UOO-228/2025"],
       "file_identification_number": "2511/2025",
       "date": "14. 5. 2025",
@@ -163,6 +129,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/09/Rozhodnutie_o_odvolani_449_2025.pdf",
+      "parent_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/09/Rozhodnutie_MVSR_228_2025.pdf",
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/09/Rozhodnutie_MVSR_228_2025.pdf",
+      "relationship_to_parent": "second_instance_decision",
+      "effect_on_parent_decree": "confirmed",
+      "effect_on_chain_root_decree": "confirmed",
+      "approves_or_confirms_chain_root_decree": true,
+      "cancels_or_changes_chain_root_decree": false,
+      "relationship_notes": "vo veci odvolania zo dňa 28. 5. 2025 účastníka konania Ministerstvo vnútra Slovenskej republiky ... proti rozhodnutiu ... číslo spisu: UOO-228/2025, č. r. 2511/2025 zo dňa 14. 5. 2025; z a m i e t a a prvostupňové rozhodnutie p o t v r d z u j e.",
+      "title": "Druhostupňové rozhodnutie z 26.8.2025",
       "case_file_number": ["UOO-449/2025"],
       "file_identification_number": "4296/2025",
       "date": "26. 08. 2025",
@@ -179,6 +154,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/08/Rozhodnutie-o-spravnom-delikte_SPF.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/08/Rozhodnutie-o-spravnom-delikte_SPF.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "5. Rozhodnutie z 24.7.2025",
       "case_file_number": ["UOO-277/2025"],
       "file_identification_number": "3705/2025",
       "date": "24. 7. 2025",
@@ -195,6 +179,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/07/rozhodnutie_MVSR_19_final_anonymizovane.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/07/rozhodnutie_MVSR_19_final_anonymizovane.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "4. Rozhodnutie z 3.2.2025",
       "case_file_number": ["UOO-148/2025", "UOO-558/2024"],
       "file_identification_number": "739/2025",
       "date": "3. 2. 2025",
@@ -211,6 +204,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/05/Rozhodnutie_o_odvolanI_MVSR_269_2025.pdf",
+      "parent_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/07/rozhodnutie_MVSR_19_final_anonymizovane.pdf",
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/07/rozhodnutie_MVSR_19_final_anonymizovane.pdf",
+      "relationship_to_parent": "second_instance_decision",
+      "effect_on_parent_decree": "confirmed",
+      "effect_on_chain_root_decree": "confirmed",
+      "approves_or_confirms_chain_root_decree": true,
+      "cancels_or_changes_chain_root_decree": false,
+      "relationship_notes": "vo veci odvolania zo dňa 18. 2. 2025 účastníka konania Ministerstvo vnútra Slovenskej republiky ... proti rozhodnutiu ... číslo spisu: UOO-148/2025 (UOO-558/2024), č. r. 739/2025 zo dňa 3. 2. 2025; z a m i e t a a prvostupňové rozhodnutie p o t v r d z u j e.",
+      "title": "Druhostupňové rozhodnutie z 16.4.2025",
       "case_file_number": ["UOO-269/2025"],
       "file_identification_number": "2101/2025",
       "date": "16. 4. 2025",
@@ -227,6 +229,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/05/1947_2025_Rozhodnutie_SNM.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/05/1947_2025_Rozhodnutie_SNM.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "3. Rozhodnutie z 9.4.2025",
       "case_file_number": ["UOO-195/2025"],
       "file_identification_number": "1947/2025",
       "date": "09.04.2025",
@@ -243,6 +254,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/07/Rozhodnutie-VVS_anonymizovane.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/07/Rozhodnutie-VVS_anonymizovane.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "2. Rozhodnutie z 11.2.2025",
       "case_file_number": ["UOO-19/2025", "UOO-518/2024"],
       "file_identification_number": "852/2025",
       "date": "11. 2. 2025",
@@ -259,6 +279,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/03/Rozhodnutie_o_odvolani_VVS_anonymizovane.pdf",
+      "parent_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/07/Rozhodnutie-VVS_anonymizovane.pdf",
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/07/Rozhodnutie-VVS_anonymizovane.pdf",
+      "relationship_to_parent": "second_instance_decision",
+      "effect_on_parent_decree": "partially_changed",
+      "effect_on_chain_root_decree": "partially_changed",
+      "approves_or_confirms_chain_root_decree": false,
+      "cancels_or_changes_chain_root_decree": true,
+      "relationship_notes": "vo veci odvolania zo dňa 20. 2. 2025 účastníka konania Východoslovenská vodárenská spoločnosť, a.s. ... proti rozhodnutiu ... číslo spisu: UOO-19/2025 (UOO-518/2024), č. r. 852/2025 zo dňa 11. 2. 2025; prvostupňové rozhodnutie podľa § 59 ods. 2 správneho poriadku v časti II. z r u š u j e, v časti I. m e n í nasledovne",
+      "title": "Druhostupňové rozhodnutie z 21.3.2025",
       "case_file_number": ["UOO-272/2025"],
       "file_identification_number": "1630/2025",
       "date": "21. 3. 2025",
@@ -267,7 +296,7 @@
           "name": "Východoslovenská vodárenská spoločnosť, a.s.",
           "address": "Komenského 50, 042 48 Košice",
           "company_id_number": "36 570 460",
-          "fine_text": "2000 € (slovom: dvetisíc eur)",
+          "fine_text": "2000 €, slovom: dvetisíc eur",
           "fine_amount": 2000,
           "fine_currency": "EUR"
         }
@@ -275,6 +304,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/03/Rozhodnutie_Solosnica_final.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2025/03/Rozhodnutie_Solosnica_final.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "1. Rozhodnutie z 14.2.2025",
       "case_file_number": ["UOO-178/2025"],
       "file_identification_number": "836/2025",
       "date": "14.02.2025",
@@ -291,6 +329,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/12/Rozhodnutie_SUZA.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/12/Rozhodnutie_SUZA.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "3. Rozhodnutie z 11.11.2024",
       "case_file_number": ["UOO-404/2024"],
       "file_identification_number": "5078/2024",
       "date": "11. 11. 2024",
@@ -307,6 +354,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/10/Rozhodnutie_164_2024.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/10/Rozhodnutie_164_2024.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "2. Rozhodnutie z 24.6.2024",
       "case_file_number": ["UOO-164/2024"],
       "file_identification_number": "3293/2024",
       "date": "24. 06. 2024",
@@ -323,6 +379,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/10/Rozhodnutie_UOO_o_odvolani_4806_2024.pdf",
+      "parent_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/10/Rozhodnutie_164_2024.pdf",
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/10/Rozhodnutie_164_2024.pdf",
+      "relationship_to_parent": "second_instance_decision",
+      "effect_on_parent_decree": "changed",
+      "effect_on_chain_root_decree": "changed",
+      "approves_or_confirms_chain_root_decree": false,
+      "cancels_or_changes_chain_root_decree": true,
+      "relationship_notes": "vo veci odvolania zo dňa 8. 7. 2024 účastníka konania Ministerstvo vnútra Slovenskej republiky ... proti rozhodnutiu ... číslo spisu: UOO-164/2024, č. r. 3293/2024 zo dňa 24. 6. 2024; rozhodnutie úradu, číslo spisu: UOO-164/2024, č. r. 3293/2024 zo dňa 24. 6. 2024 podľa § 59 ods. 2 správneho poriadku m e n í tak, že",
+      "title": "Druhostupňové rozhodnutie z 23.10.2024",
       "case_file_number": ["UOO- 453/2024"],
       "file_identification_number": "4806/2024",
       "date": "23. 10. 2024",
@@ -339,6 +404,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/05/Rozhodnutie_MZP.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/05/Rozhodnutie_MZP.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "1. Rozhodnutie z 12.1.2024",
       "case_file_number": ["UOO- 342/2023", "UOO-87/2024"],
       "file_identification_number": "UOO/2024/119",
       "date": "12. 01. 2024",
@@ -355,7 +429,16 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/05/Druhostupnove_rozhodnutie_o_pokute_MZP.pdf",
-      "case_file_number": ["UOO- 221/2024"],
+      "parent_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/05/Rozhodnutie_MZP.pdf",
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2024/05/Rozhodnutie_MZP.pdf",
+      "relationship_to_parent": "second_instance_decision",
+      "effect_on_parent_decree": "confirmed",
+      "effect_on_chain_root_decree": "confirmed",
+      "approves_or_confirms_chain_root_decree": true,
+      "cancels_or_changes_chain_root_decree": false,
+      "relationship_notes": "Rozhodnutie o odvolaní proti rozhodnutiu Úradu na ochranu oznamovateľov, číslo spisu: UOO-342/2023, UOO-87/2024, č. z. UOO/2024/119 zo dňa 12. 01. 2024; Odvolanie účastníka konania zo dňa 26. 01. 2024 ... z a m i e t a m a rozhodnutie úradu číslo spisu: UOO-342/2023, UOO-87/2024,č. z. UOO/2024/119 ... vo výške 7 000 eur (slovom: sedem tisíc eur) p o t v r d z u j e m .",
+      "title": "Druhostupňové rozhodnutie z 22.4.2024",
+      "case_file_number": ["UOO-221/2024"],
       "file_identification_number": "UOO/2024/2283",
       "date": "22. 04. 2024",
       "parties": [
@@ -371,6 +454,15 @@
     },
     {
       "url": "https://www.oznamovatelia.sk/wp-content/uploads/2023/05/1.-Rozhodnutie.pdf",
+      "parent_decree_url": null,
+      "chain_root_decree_url": "https://www.oznamovatelia.sk/wp-content/uploads/2023/05/1.-Rozhodnutie.pdf",
+      "relationship_to_parent": null,
+      "effect_on_parent_decree": null,
+      "effect_on_chain_root_decree": null,
+      "approves_or_confirms_chain_root_decree": null,
+      "cancels_or_changes_chain_root_decree": null,
+      "relationship_notes": null,
+      "title": "1. Rozhodnutie",
       "case_file_number": ["UOO/2022/00391", "UOO- 29/2023"],
       "file_identification_number": "UOO/2023/586",
       "date": "01. 03. 2023",
